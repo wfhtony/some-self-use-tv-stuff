@@ -241,7 +241,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="CCTV-數字",央视台球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="央视高网" tvg-name="央视高网" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/央视高网.png" group-title="CCTV-數字",高尔夫·网球
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/央视高网.png" group-title="CCTV-數字",高尔夫·网球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="CCTV-CGTN",CGTN英语 (official)
