@@ -23,8 +23,8 @@
 
 | 客戶端名稱 | 平臺 | 備註 |
 | --- | --- | --- |
-| [Tivimate](https://tivimate.com/) | Android | 推薦安卓盒子/平板使用，支持錄製節目，播放DRM源需要提供密鑰字段，操控需要用藍牙遙控器。一次性買斷價格爲 $33.99（官方美元定價）/ 4480円（Google Play 日區價）。 |
-| [Televizo](https://televizo.net/) | Android | 推薦安卓手機端使用，不支持錄製節目，支持觸控操作。一次性買斷價格爲 1600円（Google Play 日區價）。 |
+| [Tivimate](https://tivimate.com/) | Android | 推薦安卓盒子/平板使用，支持錄製節目，播放DRM源需要提供密鑰字段，操控需要用藍牙遙控器。一次性買斷價格爲 $33.99（官方美元定價）/ 4480円（Google Play 日區價），單帳號五臺設備。 |
+| [Televizo](https://televizo.net/) | Android | 推薦安卓手機端使用，不支持錄製節目，支持觸控操作。一次性買斷價格爲 1600円（Google Play 日區價），單帳號五臺設備。 |
 | [Kodi](https://kodi.tv/) | PC/Android/XBOX | 跨平臺萬金油。支持通過插件來播放DRM源。 |
 | [PotPlayer](https://potplayer.daum.net/) | PC | 萬金油。mini版足矣。不支持epg。 |
 | [vlc](https://www.videolan.org/vlc/) | PC | 跨系統萬金油。不支持epg。 |
