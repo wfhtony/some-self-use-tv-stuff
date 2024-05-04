@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.erw.cc/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://epg.erw.cc/e.xml" tvg-shift="0" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg_HK.xml,https://epg.pw/xmltv/epg_TW.xml" tvg-shift="-8" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="SMG" tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="SMG",上视新闻综合 (ipv6)
