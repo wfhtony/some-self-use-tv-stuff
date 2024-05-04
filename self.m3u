@@ -365,7 +365,7 @@ https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/
 #EXTINF:-1 tvg-id="BBC Two Northern Ireland" tvg-name="BBC Two Northern Ireland" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/BBC_Two_Northern_Ireland_2021.svg/512px-BBC_Two_Northern_Ireland_2021.svg.png" group-title="BBC",BBC Two Northern Ireland (official - iPlayer)
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="BBC Three" tvg-name="BBC Three" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/800px-BBC_Three_2022.svg.png" group-title="BBC",BBC Three (official - iPlayer)
-https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="BBC Four" tvg-name="BBC Four" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="BBC",BBC Four (official - iPlayer)
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
