@@ -86,39 +86,39 @@ https://epg.pw/stream/e88363a4ce6a2aa625ab98e3d840c778baec8405e1adb31a1a94f5d651
 https://epg.pw/stream/e04b14233c7014451fd340e1c5d0cc6a7a47937fa22d135f61caa76777602bad.m3u8
 https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8
 
-#EXTINF:-1 tvg-id="TVB" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="TVB",翡翠台 (epg.pw)
+#EXTINF:-1 tvg-id="TVB" tvg-name="Jade,翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="TVB",翡翠台 (epg.pw)
 https://epg.pw/stream/faf0a21f86cce2c13e6b0be2d9990139cc0c94d1e8c8a113df567277a6a86ef5.ctv
 http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-id="TVB" tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="TVB",TVB Plus (epg.pw)
 https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
 https://epg.pw/stream/9a785bebd7cf671d3e5a7dbac74ffb79496585788e9af2bb60760b44109c84ff.ctv
-#EXTINF:-1 tvg-id="TVB" tvg-name="无线新闻,新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="TVB",無線新聞台 (ipv4)
+#EXTINF:-1 tvg-id="TVB" tvg-name="互動新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="TVB",無線新聞台 (ipv4)
 https://tv.iill.top/tvb/2
-#EXTINF:-1 tvg-id="TVB" tvg-name="无线新闻,新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="TVB",無線新聞台 (ipv4, 720p)
+#EXTINF:-1 tvg-id="TVB" tvg-name="互動新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="TVB",無線新聞台 (ipv4, 720p)
 http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
 #EXTINF:-1 tvg-id="TVB" tvg-name="Pearl,明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="TVB",明珠台 (epg.pw)
 https://epg.pw/stream/4b6c809c8f12c14f840b1a00024562de2a134fe653509cc76ff6782f881a05d1.ctv
 https://epg.pw/stream/ac4c954ac1b36289d6279103388272849e930c79220fb88f2aa5e20146b12a48.ctv
 
-#EXTINF:-1 tvg-id="RTHK" tvg-name="RTHK31,港臺電視 31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="RTHK香港電臺",RTHK31 (official)
+#EXTINF:-1 tvg-id="RTHK" tvg-name="港臺電視 31,RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="RTHK香港電臺",RTHK31 (official)
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1 tvg-id="RTHK" tvg-name="RTHK31,港臺電視 31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="RTHK香港電臺",RTHK31 (official,DRM)
+#EXTINF:-1 tvg-id="RTHK" tvg-name="港臺電視 31,RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="RTHK香港電臺",RTHK31 (official,DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://rthk.live.ott.irdeto.com/licenseServer/widevine/v1/rthk/license?contentId=RTHK_CH31_Pull_DASH_WV_PR
 https://rthktv31-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch31)/master.mpd
-#EXTINF:-1 tvg-id="RTHK" tvg-name="RTHK32,港臺電視 32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="RTHK香港電臺",RTHK32 (official)
+#EXTINF:-1 tvg-id="RTHK" tvg-name="港臺電視 32,RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="RTHK香港電臺",RTHK32 (official)
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-#EXTINF:-1 tvg-id="RTHK" tvg-name="RTHK32,港臺電視 32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="RTHK香港電臺",RTHK32 (official,DRM)
+#EXTINF:-1 tvg-id="RTHK" tvg-name="港臺電視 32,RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="RTHK香港電臺",RTHK32 (official,DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://rthk.live.ott.irdeto.com/licenseServer/widevine/v1/rthk/license?contentId=RTHK_CH32_Pull_DASH_WV_PR
 https://rthktv32-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch32)/master.mpd
-#EXTINF:-1 tvg-id="RTHK" tvg-name="RTHK33,CCTV-1" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a7/RTHK_TV_33.svg/300px-RTHK_TV_33.svg.png" group-title="RTHK香港電臺",RTHK33 (CCTV-1) (official)
+#EXTINF:-1 tvg-id="RTHK" tvg-name="CCTV-1,RTHK33" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a7/RTHK_TV_33.svg/300px-RTHK_TV_33.svg.png" group-title="RTHK香港電臺",RTHK33 (CCTV-1) (official)
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK" tvg-name="RTHK34,CGTN Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f9/RTHK_TV_34.svg/300px-RTHK_TV_34.svg.png" group-title="RTHK香港電臺",RTHK34 (CGTN Documentary) (official)
+#EXTINF:-1 tvg-id="RTHK" tvg-name="CGTN Documentary,RTHK34" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f9/RTHK_TV_34.svg/300px-RTHK_TV_34.svg.png" group-title="RTHK香港電臺",RTHK34 (CGTN Documentary) (official)
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK" tvg-name="RTHK35,CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/85/RTHK_TV_35.svg/300px-RTHK_TV_35.svg.png" group-title="RTHK香港電臺",RTHK35 (CGTN English) (official)
+#EXTINF:-1 tvg-id="RTHK" tvg-name="CGTN,RTHK35" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/85/RTHK_TV_35.svg/300px-RTHK_TV_35.svg.png" group-title="RTHK香港電臺",RTHK35 (CGTN English) (official)
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="HOY" tvg-name="HOY TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/HOY_TV_%282%29.png/revision/latest/?cb=20231221130409&path-prefix=vi" group-title="HOY",HOY TV (official)
@@ -129,14 +129,14 @@ https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 
 
-#EXTINF:-1 tvg-id="Al Jazeera" tvg-name="Al Jazeera" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="Al Jazeera",Al Jazeera English (official)
+#EXTINF:-1 tvg-id="Al Jazeera" tvg-name="半島,半島英語" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="Al Jazeera",Al Jazeera English (official)
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera" tvg-name="Al Jazeera Arabic" tvg-logo="https://cdn.logoeps.net/wp-content/uploads/2016/12/al_jazeera-logo.png" group-title="Al Jazeera",Al Jazeera Arabic (official)
+#EXTINF:-1 tvg-id="Al Jazeera" tvg-name="半島阿語" tvg-logo="https://cdn.logoeps.net/wp-content/uploads/2016/12/al_jazeera-logo.png" group-title="Al Jazeera",Al Jazeera Arabic (official)
 https://live-hls-web-aja-fa.getaj.net/AJA/01.m3u8
 
-#EXTINF:-1 tvg-id="RT" tvg-name="RT News" tvg-logo="https://live.fanmingming.com/tv/RTNews.png" group-title="Russia Today",RT News (official)
+#EXTINF:-1 tvg-id="RT" tvg-name="RT" tvg-logo="https://live.fanmingming.com/tv/RTNews.png" group-title="Russia Today",RT News (official)
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RT" tvg-name="RT News" tvg-logo="https://live.fanmingming.com/tv/RTDoc.png" group-title="Russia Today",RT Documentary (official)
+#EXTINF:-1 tvg-id="RT" tvg-name="RT Documentary" tvg-logo="https://live.fanmingming.com/tv/RTDoc.png" group-title="Russia Today",RT Documentary (official)
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-id="RT" tvg-name="Первый Канал" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.png" group-title="Russia Today",Первый Канал H (official)
