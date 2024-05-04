@@ -10,6 +10,7 @@
 |[上海电信IPTV组播源EPG节目单](https://www.right.com.cn/FORUM/thread-8280221-1-1.html) | 上海文廣相關的epg源（含當日和次日的節目表）。|
 |[EPG电子节目单（erw.cc）](http://epg.erw.cc/) | 大陸頻道epg（僅過去七天及當日的節目表）。|
 |[epg.pw](https://epg.pw/) | 海外頻道epg（含當日及後兩天的節目表，需要調整時移）、部分IPTV源。|
+|[Shuggy999](https://github.com/Shuggy999/m3u) | 部分BBC（iPlayer）相關的IPTV源。|
 
 另外，頻道名稱後面帶「official」字樣的皆爲電視台官方提供的直播源，觀看時會有鎖地區IP的現象出現。
 
