@@ -17,4 +17,4 @@
 | 鏈接 | 備註 |
 | --- | --- |
 |[IPTV for Japan](https://github.com/take2560/takelab) | 由 take2560 整理的日本IPTV（IPV4）源 + epg節目表（觀看需海外IP）。|
-|[stream-link.org](https://www.stream-link.org/) | 香港網民整理的IPTV源（觀看需**非**大陸、臺灣、及cloudflare ip端），範圍主要是香港和臺灣的電視臺。|
+|[stream-link.org](https://www.stream-link.org/) | 香港網民整理的IPTV源（觀看需**非**大陸、臺灣、及cloudflare ip段），範圍主要是香港和臺灣的電視臺。|
