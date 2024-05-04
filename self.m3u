@@ -98,11 +98,6 @@ http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
 #EXTINF:-1 tvg-id="TVB" tvg-name="Pearl,明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="TVB",明珠台 (epg.pw)
 https://epg.pw/stream/4b6c809c8f12c14f840b1a00024562de2a134fe653509cc76ff6782f881a05d1.ctv
 https://epg.pw/stream/ac4c954ac1b36289d6279103388272849e930c79220fb88f2aa5e20146b12a48.ctv
-<<<<<<< HEAD
-=======
-#EXTINF:-1 tvg-id="TVB" tvg-name="TVB生活台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="TVB",TVB生活台 (ipv4)
-https://tv.iill.top/tvb/3
->>>>>>> 0ceb2ad9ee89f8e2ad8e1ee04f1c351dfc148c22
 
 #EXTINF:-1 tvg-id="RTHK" tvg-name="RTHK31,港臺電視 31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="RTHK香港電臺",RTHK31 (official)
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
