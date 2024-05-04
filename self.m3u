@@ -1,5 +1,5 @@
-#EXTM3U x-tvg-url="https://epg.erw.cc/e.xml" tvg-shift="0" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg_HK.xml,https://epg.pw/xmltv/epg_TW.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://epg.erw.cc/e.xml,https://epg.pw/xmltv/epg_HK.xml,https://epg.pw/xmltv/epg_TW.xml,	
+https://epg.pw/xmltv/epg_RU.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="SMG" tvg-name="上海新闻综合" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="SMG",上视新闻综合 (ipv6)
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
@@ -92,11 +92,11 @@ http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-id="TVB" tvg-name="J2" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="TVB",TVB Plus (epg.pw)
 https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
 https://epg.pw/stream/9a785bebd7cf671d3e5a7dbac74ffb79496585788e9af2bb60760b44109c84ff.ctv
-#EXTINF:-1 tvg-id="TVB" tvg-name="互動新聞台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="TVB",無線新聞台 (ipv4)
+#EXTINF:-1 tvg-id="TVB" tvg-name="TVB 互動新聞台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="TVB",無線新聞台 (ipv4)
 https://tv.iill.top/tvb/2
-#EXTINF:-1 tvg-id="TVB" tvg-name="互動新聞台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="TVB",無線新聞台 (ipv4, 720p)
+#EXTINF:-1 tvg-id="TVB" tvg-name="TVB 互動新聞台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="TVB",無線新聞台 (ipv4, 720p)
 http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
-#EXTINF:-1 tvg-id="TVB" tvg-name="Pearl" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="TVB",明珠台 (epg.pw)
+#EXTINF:-1 tvg-id="TVB" tvg-name="TVB Pearl" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="TVB",明珠台 (epg.pw)
 https://epg.pw/stream/4b6c809c8f12c14f840b1a00024562de2a134fe653509cc76ff6782f881a05d1.ctv
 https://epg.pw/stream/ac4c954ac1b36289d6279103388272849e930c79220fb88f2aa5e20146b12a48.ctv
 
@@ -129,7 +129,7 @@ https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 
 
-#EXTINF:-1 tvg-id="AJEng" tvg-name="半島,半島英語" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="Al Jazeera",Al Jazeera English (official)
+#EXTINF:-1 tvg-id="AJEng" tvg-name="半島電視台英語頻道" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="Al Jazeera",Al Jazeera English (official)
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="AJAra" tvg-name="半島阿語" tvg-logo="https://cdn.logoeps.net/wp-content/uploads/2016/12/al_jazeera-logo.png" group-title="Al Jazeera",Al Jazeera Arabic (official)
 https://live-hls-web-aja-fa.getaj.net/AJA/01.m3u8
@@ -139,14 +139,14 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="RTDoc" tvg-name="RT Documentary" tvg-logo="https://live.fanmingming.com/tv/RTDoc.png" group-title="Russia Today",RT Documentary (official)
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-id="Channel-1" tvg-name="Первый Канал" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.png" group-title="Russia Today",Первый Канал H (official)
+#EXTINF:-1 tvg-id="1tv" tvg-name="Первый Канал" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.png" group-title="Russia Today",Первый Канал HD (official)
 https://edge2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1714725935
-#EXTINF:-1 tvg-id="Russia-1" tvg-name="Россия-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rossiya-1_Logo.svg/204px-Rossiya-1_Logo.svg.png" group-title="Russia Today",Россия-1 (ipv4,SD)
+#EXTINF:-1 tvg-id="Russia-1" tvg-name="Россия" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rossiya-1_Logo.svg/204px-Rossiya-1_Logo.svg.png" group-title="Russia Today",Россия-1 (ipv4,SD)
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
-#EXTINF:-1 tvg-id="Russia-24" tvg-name="Россия-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/800px-Rossiya-24_Logo.svg.png" group-title="Russia Today",Россия-24 (ipv4,SD)
+#EXTINF:-1 tvg-id="Russia-24" tvg-name="Россия 24" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/800px-Rossiya-24_Logo.svg.png" group-title="Russia Today",Россия-24 (ipv4,SD)
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
-#EXTINF:-1 tvg-id="OTP" tvg-name="Общественное Телевидение России" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/OTR_2013_logo.svg/312px-OTR_2013_logo.svg.png" group-title="Russia Today",Общественное Телевидение России (ipv4,SD)
+#EXTINF:-1 tvg-id="OTP" tvg-name="OTP" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/OTR_2013_logo.svg/312px-OTR_2013_logo.svg.png" group-title="Russia Today",Общественное Телевидение России (ipv4,SD)
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1yar" tvg-name="Первый Ярославский" tvg-logo="https://1yar.tv/photos/logo_1_yar_obl.png" group-title="Russia Today",Первый Ярославский (official)
+#EXTINF:-1 tvg-id="1yar" tvg-name="Первый Ярославский" tvg-shift="-3" tvg-logo="https://1yar.tv/photos/logo_1_yar_obl.png" group-title="Russia Today",Первый Ярославский (official)
 https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
