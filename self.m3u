@@ -309,17 +309,23 @@ https://epg.pw/stream/e88363a4ce6a2aa625ab98e3d840c778baec8405e1adb31a1a94f5d651
 https://epg.pw/stream/e04b14233c7014451fd340e1c5d0cc6a7a47937fa22d135f61caa76777602bad.m3u8
 https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8
 
-#EXTINF:-1 tvg-id="Jade" tvg-name="Jade" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="TVB",翡翠台 (epg.pw)
+#EXTINF:-1 tvg-id="Jade" tvg-name="Jade" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="TVB",翡翠台 (ipv4)
+https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
+https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
 https://epg.pw/stream/faf0a21f86cce2c13e6b0be2d9990139cc0c94d1e8c8a113df567277a6a86ef5.ctv
 http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
-#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="TVB",TVB Plus (epg.pw)
+#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="TVB",TVB Plus (ipv4)
+https://z88.ubtvfans.com/live/rx1/392/a8eb3028c1ce9d8eb38d3bdb55b4c171/index.m3u8
+https://z88.ubtvfans.com/live/rx1/2834/c4e8a90ec43d655efcd7a5b1f05120d1/index.m3u8
 https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
 https://epg.pw/stream/9a785bebd7cf671d3e5a7dbac74ffb79496585788e9af2bb60760b44109c84ff.ctv
 #EXTINF:-1 tvg-id="TVB 互動新聞台" tvg-name="TVB 互動新聞台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="TVB",無線新聞台 (ipv4)
 https://tv.iill.top/tvb/2
 #EXTINF:-1 tvg-id="TVB 互動新聞台" tvg-name="TVB 互動新聞台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="TVB",無線新聞台 (ipv4 - 720p)
 http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
-#EXTINF:-1 tvg-id="Pearl" tvg-name="TVB Pearl" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="TVB",明珠台 (epg.pw)
+#EXTINF:-1 tvg-id="Pearl" tvg-name="TVB Pearl" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="TVB",明珠台 (ipv4)
+https://z88.ubtvfans.com/live/rx1/2437/43f3e7d06eeb53f3057cb2780fd11a50/index.m3u8
+https://z88.ubtvfans.com/live/rx3/391/49c6f4b711497e559ed7ec30b2a7cde9/index.m3u8
 https://epg.pw/stream/4b6c809c8f12c14f840b1a00024562de2a134fe653509cc76ff6782f881a05d1.ctv
 https://epg.pw/stream/ac4c954ac1b36289d6279103388272849e930c79220fb88f2aa5e20146b12a48.ctv
 
