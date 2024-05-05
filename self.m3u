@@ -338,18 +338,14 @@ https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="港臺電視 31" tvg-name="港臺電視 31" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="RTHK 香港電臺",RTHK31 (official - DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.rthk.hk/
-#KODIPROP:inputstream.adaptive.license_key=https://rthk.live.ott.irdeto.com/licenseServer/widevine/v1/rthk/license?contentId=RTHK_CH31_Pull_DASH_WV_PR
+#KODIPROP:inputstream.adaptive.license_key="https://rthk.live.ott.irdeto.com/licenseServer/widevine/v1/rthk/license?contentId=RTHK_CH31_Pull_DASH_WV_PR"
 https://rthktv31-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch31)/master.mpd
 #EXTINF:-1 tvg-id="港臺電視 32" tvg-name="港臺電視 32" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="RTHK 香港電臺",RTHK32 (official)
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 tvg-id="港臺電視 32" tvg-name="港臺電視 32" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="RTHK 香港電臺",RTHK32 (official - DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.rthk.hk/
-#KODIPROP:inputstream.adaptive.license_key=https://rthk.live.ott.irdeto.com/licenseServer/widevine/v1/rthk/license?contentId=RTHK_CH32_Pull_DASH_WV_PR
+#KODIPROP:inputstream.adaptive.license_key="https://rthk.live.ott.irdeto.com/licenseServer/widevine/v1/rthk/license?contentId=RTHK_CH32_Pull_DASH_WV_PR"
 https://rthktv32-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch32)/master.mpd
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a7/RTHK_TV_33.svg/300px-RTHK_TV_33.svg.png" group-title="RTHK 香港電臺",RTHK33 (CCTV-1) (official)
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
