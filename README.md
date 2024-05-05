@@ -11,6 +11,7 @@
 |[EPG电子节目单（erw.cc）](http://epg.erw.cc/) | 大陸頻道epg（僅過去七天及當日的節目表）。|
 |[epg.pw](https://epg.pw/) | 海外頻道epg（含當日及後兩天的節目表，需要調整時移）、部分IPTV源。|
 |[iptv-org](https://github.com/iptv-org/iptv) | 部分海外頻道IPTV源。|
+|[FoodieGuide.com](https://www.foodieguide.com/iptvsearch/) | 部分海外頻道IPTV源。|
 |[Shuggy999](https://github.com/Shuggy999/m3u) | 部分BBC（iPlayer）相關的IPTV源。|
 
 另外，頻道名稱後面帶「official」字樣的皆爲電視台官方提供的直播源，觀看時會有鎖地區IP的現象出現。

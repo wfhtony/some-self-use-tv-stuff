@@ -350,6 +350,12 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPla
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/85/RTHK_TV_35.svg/300px-RTHK_TV_35.svg.png" group-title="RTHK 香港電臺",RTHK35 (CGTN English) (official)
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/viutv.png" group-title="ViuTV 香港電視娛樂",ViuTV (ipv4)
+https://z88.ubtvfans.com/live/rx1/72/45683d738c0c0f8cc659cb4126f5dad3/index.m3u8
+https://z88.ubtvfans.com/live/rx1/2334/fba30fd4af785fb0451bcccfdf475e79/index.m3u8
+#EXTINF:-1 tvg-id="ViuTV Six" tvg-name="ViuTV Six" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/viutv6.png" group-title="ViuTV 香港電視娛樂",ViuTVsix (ipv4)
+https://z88.ubtvfans.com/live/rx1/176/32178352c5da72e5fd918a653c6fc9ae/index.m3u8
+
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-shift="-8" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/HOY_TV_%282%29.png/revision/latest/?cb=20231221130409&path-prefix=vi" group-title="HOY 有線寬頻開電視",HOY TV (official)
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-id="HOY TV 資訊台" tvg-name="HOY TV 資訊台" tvg-shift="-8" tvg-logo="https://www.hko.gov.hk/tc/video/images/icon_hoy_infotainment.png" group-title="HOY 有線寬頻開電視",HOY資訊台 (official)
@@ -357,6 +363,22 @@ https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/2b/HoYIBC_logo.png" group-title="HOY 有線寬頻開電視",HOY國際財經台 (official)
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 
+#EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-shift="0" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" group-title="TDM 澳廣視",澳視澳門 Ch.91 (official)
+https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳視葡文" tvg-name="澳視葡文" tvg-shift="0" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" group-title="TDM 澳廣視",澳視葡文 Ch.92 (official)
+https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳門體育" tvg-name="澳門體育" tvg-shift="0" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" group-title="TDM 澳廣視",澳門體育 Ch.93 (official)
+https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳門資訊" tvg-name="澳門資訊" tvg-shift="0" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" group-title="TDM 澳廣視",澳門資訊 Ch.94 (official)
+https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳門綜藝" tvg-name="澳門綜藝" tvg-shift="0" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-03/3a515e0352b60f146b1c6a79ddd4c54d.png" group-title="TDM 澳廣視",澳門綜藝 Ch.95 (official)
+https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-id="MACAU 衛星" tvg-name="MACAU 衛星" tvg-shift="0" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" group-title="TDM 澳廣視",澳門衛星頻道 Ch.96 (official)
+https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="立法會" tvg-name="立法會" tvg-shift="0" tvg-logo="https://cdn.tdm.com.mo/uploads/media/web_images/tdm%20new%20app%20logo.png" group-title="TDM 澳廣視",立法會直播 (official)
+https://live4.tdm.com.mo/tv/ch21.live/playlist.m3u8
+#EXTINF:-1 tvg-id="立法會 葡文" tvg-name="立法會 葡文" tvg-shift="0" tvg-logo="https://cdn.tdm.com.mo/uploads/media/web_images/tdm%20new%20app%20logo.png" group-title="TDM 澳廣視",Directo das Reuniões da Assembleia de Macau (official)
+https://live4.tdm.com.mo/tv/ch22.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/512px-BBC_News_2022_%28Alt%29.svg.png" group-title="BBC",BBC News (official - Worldwide)
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
