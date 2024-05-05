@@ -384,9 +384,11 @@ https://live4.tdm.com.mo/tv/ch21.live/playlist.m3u8
 #EXTINF:-1 tvg-id="立法會 葡文" tvg-name="立法會 葡文" tvg-shift="0" tvg-logo="https://cdn.tdm.com.mo/uploads/media/web_images/tdm%20new%20app%20logo.png" group-title="TDM 澳廣視",Directo das Reuniões da Assembleia de Macau (official)
 https://live4.tdm.com.mo/tv/ch22.live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/512px-BBC_News_2022_%28Alt%29.svg.png" group-title="BBC",BBC News (official - Worldwide)
+#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/512px-BBC_News_2022_%28Alt%29.svg.png" group-title="BBC",BBC News (official - iPlayer(WW))
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/512px-BBC_News_2022_%28Alt%29.svg.png" group-title="BBC",BBC News (ipv4 - World)
+https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/512px-BBC_News_2022_%28Alt%29.svg.png" group-title="BBC",BBC News (official - iPlayer)
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="BBC",BBC One (official - iPlayer)
