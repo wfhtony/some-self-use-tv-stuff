@@ -15,6 +15,7 @@
 |[Shuggy999](https://github.com/Shuggy999/m3u) | 部分BBC（iPlayer）相關的IPTV源。|
 
 另外，頻道名稱後面帶「official」字樣的皆爲電視台官方提供的直播源，觀看時會有鎖地區IP的現象出現。
+如有需要，可以搭配[這裏的規則](https://github.com/wfhtony/some-self-use-rule/tree/123)食用。
 
 附：其他推薦源
 
