@@ -396,6 +396,7 @@ https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 #EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="BBC",BBC One (official - iPlayer)
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/iptv_hd_abr_v1.mpd
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="BBC One London" tvg-name="BBC One London" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="BBC",BBC One (official - iPlayer)
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.mpd
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_london.m3u8
 #EXTINF:-1 tvg-id="BBC One Wales" tvg-name="BBC One Wales" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/BBC_One_Wales_2021.svg/512px-BBC_One_Wales_2021.svg.png" group-title="BBC",BBC One Wales (official - iPlayer)
