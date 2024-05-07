@@ -472,33 +472,33 @@ https://rthktv32-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch32)/mas
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire
-https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,c4-v3-iso-dash.mpd
+https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,c4-v3-iso-dash.mpd?yo.ac=true&yo.br=false&yo.d.sp=PT8.0S&siteSectionId=watchlive.channel4.com/C4&GUID=b7c8e0a6-29f1-48b2-9cd2-499e4c21e548&targetedAdvertising=accepted&_fw_cookie_consent=1
 
 #EXTINF:-1 tvg-id="E4" tvg-name="E4" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/268px-E4_logo_2018.svg.png" group-title="Test",E4 (official - DRM)
 #EXTVLCOPT:Referrer=https://www.channel4.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire
-https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,e4-v3-iso-dash.mpd
+https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,e4-v3-iso-dash.mpd?yo.ac=true&yo.br=false&yo.d.sp=PT8.0S&siteSectionId=watchlive.channel4.com/E4&GUID=b7c8e0a6-29f1-48b2-9cd2-499e4c21e548&targetedAdvertising=accepted&_fw_cookie_consent=1
 
 #EXTINF:-1 tvg-id="More4" tvg-name="More4" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/365px-More4_logo_2018.svg.png" group-title="Test",More4 (official - DRM)
 #EXTVLCOPT:Referrer=https://www.channel4.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire
-https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,m4-v3-iso-dash.mpd
+https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,m4-v3-iso-dash.mpd?yo.ac=true&yo.br=false&yo.d.sp=PT8.0S&siteSectionId=watchlive.channel4.com/M4&GUID=b7c8e0a6-29f1-48b2-9cd2-499e4c21e548&targetedAdvertising=accepted&_fw_cookie_consent=1
 
 #EXTINF:-1 tvg-id="Film4" tvg-name="Film4" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/324px-Film4_logo_2018.svg.png" group-title="Test",Film4 (official - DRM)
 #EXTVLCOPT:Referrer=https://www.channel4.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire
-https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,f4-v3-iso-dash.mpd
+https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,f4-v3-iso-dash.mpd?yo.ac=true&yo.br=false&yo.d.sp=PT8.0S&siteSectionId=watchlive.channel4.com/F4&GUID=b7c8e0a6-29f1-48b2-9cd2-499e4c21e548&targetedAdvertising=accepted&_fw_cookie_consent=1
 
 #EXTINF:-1 tvg-id="4seven" tvg-name="4seven" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/4seven_logo_2018.svg/272px-4seven_logo_2018.svg.png" group-title="Test",4seven (official - DRM)
 #EXTVLCOPT:Referrer=https://www.channel4.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire
-https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,4s-v3-iso-dash.mpd
+https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,4s-v3-iso-dash.mpd?yo.ac=true&yo.br=false&yo.d.sp=PT8.0S&siteSectionId=watchlive.channel4.com/4S&GUID=b7c8e0a6-29f1-48b2-9cd2-499e4c21e548&targetedAdvertising=accepted&_fw_cookie_consent=1
 
