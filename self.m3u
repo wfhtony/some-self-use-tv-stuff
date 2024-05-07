@@ -433,6 +433,14 @@ https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bb
 #EXTINF:-1 tvg-id="BBC Red Button 1" tvg-name="BBC Red Button 1" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BBC_Red_Button_2021.svg/500px-BBC_Red_Button_2021.svg.png" group-title="BBC",BBC Red Button 1 (official - iPlayer)
 https://vs-hls-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:-1 tvg-id="Channel 4" tvg-name="Channel 4" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/01/Channel_4_%28On_Demand%29_2023.svg.png" group-title="Test",Channel 4 (official - DRM)
+#EXTVLCOPT:Referrer=https://www.channel4.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest_sd.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
+
+
 #EXTINF:-1 tvg-id="AJEng" tvg-name="半島電視台英語頻道" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="Al Jazeera",Al Jazeera English (official)
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="AJAra" tvg-name="半島阿語" tvg-logo="https://cdn.logoeps.net/wp-content/uploads/2016/12/al_jazeera-logo.png" group-title="Al Jazeera",Al Jazeera Arabic (official)
