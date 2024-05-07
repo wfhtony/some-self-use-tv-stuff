@@ -502,12 +502,12 @@ https://olsp.live.hls.c4assets.com/hls_fps/live/channel(f4)/index_sd.m3u8
 #EXTINF:-1 tvg-id="4seven" tvg-name="4seven" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/4seven_logo_2018.svg/272px-4seven_logo_2018.svg.png" group-title="Test",4seven (official - DRM)
 #EXTVLCOPT:Referrer=https://www.channel4.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest_sd.mpd
 https://olsp.live.hls.c4assets.com/hls_fps/live/channel(4s)/index_sd.m3u8
 
-#EXTINF:-1 tvg-id="KCTV" tvg-name="Korean Central Television" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/799px-Logo_of_the_Korean_Central_Television.svg.png" group-title="Test",조선중앙텔레비죤 (ipv4)
+#EXTINF:-1 tvg-id="KCTV" tvg-name="Korean Central Television" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/799px-Logo_of_the_Korean_Central_Television.svg.png" group-title="Test",조선중앙텔레비죤 (ipv4 - DRM)
 #EXTVLCOPT:Referrer=https://kcnawatch.org/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
