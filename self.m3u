@@ -439,11 +439,15 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-id="1tv" tvg-name="Первый Канал" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.png" group-title="Russia Today",Первый Канал HD (official)
 https://edge2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1714725935
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-id="Russia-1" tvg-name="Россия" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rossiya-1_Logo.svg/204px-Rossiya-1_Logo.svg.png" group-title="Russia Today",Россия-1 HD (ipv4)
+https://player.smotrim.ru/iframe/stream/live_id/2961
 #EXTINF:-1 tvg-id="Russia-1" tvg-name="Россия" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rossiya-1_Logo.svg/204px-Rossiya-1_Logo.svg.png" group-title="Russia Today",Россия-1 (ipv4 - SD)
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 tvg-id="Russia-24" tvg-name="Россия 24" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/800px-Rossiya-24_Logo.svg.png" group-title="Russia Today",Россия-24 (ipv4 - SD)
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 #EXTINF:-1 tvg-id="OTP" tvg-name="OTP" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/OTR_2013_logo.svg/312px-OTR_2013_logo.svg.png" group-title="Russia Today",Общественное Телевидение России (ipv4 - SD)
+https://streaming.televizor-24-tochka.ru/live/12.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1yar" tvg-name="Первый Ярославский" tvg-shift="-3" tvg-logo="https://1yar.tv/photos/logo_1_yar_obl.png" group-title="Russia Today",Первый Ярославский (official)
