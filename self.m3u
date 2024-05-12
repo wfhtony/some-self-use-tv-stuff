@@ -271,38 +271,51 @@ https://pi.0472.org/live/gefwq.m3u8?token=241703
 #EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/卫生健康.png" group-title="CCTV-數字",卫生健康 (ipv4)
 https://pi.0472.org/live/wsjk.m3u8?token=241703
 
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="CCTV-CGTN",CGTN英语
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUap6gG4YPDtM5jJ9BeY859LkHVEKIeieCbU4HUV%2BZ9aFwSHAnd8F70VqU6TYif81mMC79YJ%2BEEiYI8DYDTaxhzE
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="CCTV-CGTN",CGTN英语 (official)
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="CCTV-CGTN",CGTN记录
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSaCqIIft58cZ4PZIJmJQKDE%2BhMJnrkAZeCJCdRJXvlspyKifC5nxyZPvhyagt5zUWfqOxoNjmqM5FCfJztd4V4
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="CCTV-CGTN",CGTN记录 (official)
 https://livedoc.cgtn.com/500d/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="CCTV-CGTN",CGTN俄语
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaSsNLt4Nk6r4W9qq%2FCDwVBpu%2Bd8oi%2FZBV7QZaH2nvMDC8YfPqSjgvIu0Auay5DY5x%2FNqUGittSlgAuOf2q3Hqw
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="CCTV-CGTN",CGTN俄语 (official)
 https://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="CCTV-CGTN",CGTN法语
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806fb631afe/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUap6gG4YPDtM5jJ9BeY859Jl30zDhWOxOChfz6zZGXm5AxEG2nM0jV%2Bz98DG%2B3LggHigAvzizwxj%2BnU8zoIJ5eI
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="CCTV-CGTN",CGTN法语 (official)
 https://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="CCTV-CGTN",CGTN西语
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUap6gG4YPDtM5jJ9BeY859LpCL6J7ZtZvSzaGNoejhX%2FbNh%2FUg28dwPszgBZkEAMg2VxNQuvSmdjhzvIIS4yJP4
 #EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="CCTV-CGTN",CGTN西语 (official)
 https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="CCTV-CGTN",CGTN阿语
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaSsNLt4Nk6r4W9qq%2FCDwVDatBZcJQo3xmh5jB8MUTZscqd4uhNXfrNVsIVK4SmtkmgfNyDajGSot7TTk6SWF%2BQ
 #EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="CCTV-CGTN",CGTN阿语 (official)
 https://livear.cgtn.com/1000a/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="鳳凰衛視" tvg-name="鳳凰衛視" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="鳳凰傳媒",鳳凰衛視 (ipv4)
-https://tv.iill.top/jd/fhzw
+http://113.64.145.91:8081/hls/38/index.m3u8
 https://z88.ubtvfans.com/live/rx3/2291/2b011e9f29a96046f6b0804c7ba039ef/index.m3u8
 https://z88.ubtvfans.com/live/rx1/2812/1ab4a96e4b23851cc791d361effb015a/index.m3u8
+https://tv.iill.top/jd/fhzw
 https://epg.pw/stream/a7d73b5ffe9e9d33a8b774a4df3d623b2ba01a36f6ef70f20d1f3f9b27836330.ctv
 https://epg.pw/stream/b5ceaeacd11b0331a6b3fbb0c4ef90836be87bb2c478d76b74ef1e27f32326f3.ctv
 https://epg.pw/stream/653363b4a3d6b0c5850c53b115d02d5e5e57d7d4c2954ef7c4163640e2cdd991.ctv
 https://epg.pw/stream/91dffd2dca60b65821a94747f2f3020dfc9642bb89f86ed7fa6d8b0b7487c5d2.m3u8
 #EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="鳳凰傳媒",資訊台 (ipv4)
+http://113.64.145.91:8081/hls/36/index.m3u8
+http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 https://tv.iill.top/jd/fhzx
-http://tvbox.netsite.cc/proxy/1650326537/1650326537.m3u8
 https://epg.pw/stream/6cb73e3cad873d275ae7399762214060046e7b08b051b249f8bdb95ec3fea2fc.ctv
 https://epg.pw/stream/30cd5e1750b4964bc1bedfea45649cec7531987a88a0f5dc2fb8c773b5c582f7.ctv
 https://epg.pw/stream/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
 #EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="鳳凰傳媒",香港台 (ipv4)
-http://103.95.24.37:880/fhxgt.m3u8
 http://113.64.145.91:8081/hls/38/index.m3u8
+http://103.95.24.37:880/fhxgt.m3u8
 https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
 https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 https://epg.pw/stream/e88363a4ce6a2aa625ab98e3d840c778baec8405e1adb31a1a94f5d6518982ef.m3u8
