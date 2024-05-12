@@ -325,6 +325,8 @@ https://tv.iill.top/jd/fhzx
 https://epg.pw/stream/6cb73e3cad873d275ae7399762214060046e7b08b051b249f8bdb95ec3fea2fc.ctv
 https://epg.pw/stream/30cd5e1750b4964bc1bedfea45649cec7531987a88a0f5dc2fb8c773b5c582f7.ctv
 https://epg.pw/stream/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
+#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="鳳凰傳媒",資訊台 (official - YouTube)
+https://ythls-v2.onrender.com/video/HFib76ySpbU.m3u8
 #EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="鳳凰傳媒",香港台 (ipv4)
 http://113.64.145.91:8081/hls/38/index.m3u8
 http://103.95.24.37:880/fhxgt.m3u8
@@ -501,7 +503,8 @@ https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/EBC_News_logo_20150706.jpg/600px-EBC_News_logo_20150706.jpg" group-title="TEST",東森新聞台 (official - YouTube)
+https://ythls-v2.onrender.com/video/E0zhe2gkXBs.m3u8
 
 #EXTINF:-1 tvg-id="港臺電視 31" tvg-name="港臺電視 31" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="Test",RTHK31 (official - DRM)
 #EXTVLCOPT:Referrer="https://www.rthk.hk/"
