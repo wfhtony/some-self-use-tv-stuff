@@ -233,40 +233,52 @@ https://tv.cry33.com/ys4k.php?id=8k
 https://pi.0472.org/live/cctv8k.m3u8?token=241703
 
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="CCTV-數字",电视指南 (ipv4)
+http://119.118.170.190:8888/rtp/232.0.0.91:1234
 https://pi.0472.org/live/dszn.m3u8?token=241703
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="CCTV-數字",兵器科技
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="CCTV-數字",兵器科技 (ipv4)
+http://119.118.170.190:8888/rtp/232.0.0.58:1234
 https://pi.0472.org/live/bqkj.m3u8?token=241703
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="CCTV-數字",第一剧场
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="CCTV-數字",第一剧场 (ipv4)
+http://119.118.170.190:8888/rtp/232.0.0.29:1234
 https://pi.0472.org/live/dyjc.m3u8?token=241703
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="CCTV-數字",怀旧剧场 (ipv4)
+http://119.118.170.190:8888/rtp/232.0.0.38:1234
 https://pi.0472.org/live/hjjc.m3u8?token=241703
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="CCTV-數字",风云剧场 (ipv4)
+http://175.146.120.43:8888/rtp/232.0.0.45:1234
 https://pi.0472.org/live/fyjc.m3u8?token=241703
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="CCTV-數字",风云音乐 (ipv4)
+http://119.118.170.190:8888/rtp/232.0.0.47:1234
 https://pi.0472.org/live/fyyy.m3u8?token=241703
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="CCTV-數字",风云足球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="CCTV-數字",风云足球 (ipv4)
+http://119.118.170.190:8888/rtp/232.0.0.52:1234
 https://pi.0472.org/live/fyzq.m3u8?token=241703
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="CCTV-數字",女性时尚 (ipv4)
+http://119.118.170.190:8888/rtp/232.0.0.51:1234
 https://pi.0472.org/live/nxss.m3u8?token=241703
 #EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="CCTV-數字",文化精品 (ipv4)
+http://119.118.170.190:8888/rtp/232.0.0.56:1234
 https://pi.0472.org/live/whjp.m3u8?token=241703
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="CCTV-數字",世界地理
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="CCTV-數字",世界地理 (ipv4)
+http://119.118.170.190:8888/rtp/232.0.0.63:1234
 https://pi.0472.org/live/sjdl.m3u8?token=241703
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="CCTV-數字",央视台球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="CCTV-數字",央视台球 (ipv4)
+http://119.118.170.190:8888/rtp/232.0.0.60:1234
 https://pi.0472.org/live/ystq.m3u8?token=241703
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/央视高网.png" group-title="CCTV-數字",高尔夫·网球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="CCTV-數字",高尔夫·网球 (ipv4)
+http://113.24.136.55:8083/udp/239.1.1.102:8102
 https://pi.0472.org/live/gefwq.m3u8?token=241703
 #EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/卫生健康.png" group-title="CCTV-數字",卫生健康 (ipv4)
 https://pi.0472.org/live/wsjk.m3u8?token=241703
