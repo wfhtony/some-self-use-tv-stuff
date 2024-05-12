@@ -510,11 +510,11 @@ https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
 
 
 #EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/EBC_News_logo_20150706.jpg/600px-EBC_News_logo_20150706.jpg" group-title="Test",東森新聞台 (official - YouTube)
-https://www.youtube.com/watch?v=E0zhe2gkXBs
+#https://www.youtube.com/watch?v=E0zhe2gkXBs
 https://ythls-v2.onrender.com/video/E0zhe2gkXBs.m3u8
 
 #EXTINF:-1 tvg-id="TVBS新聞台" tvg-name="TVBS新聞台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="Test",TVBS新聞台 (official - YouTube)
-https://www.youtube.com/watch?v=2mCSYvcfhtc
+#https://www.youtube.com/watch?v=2mCSYvcfhtc
 https://ythls-v2.onrender.com/video/2mCSYvcfhtc.m3u8
 
 #EXTINF:-1 tvg-id="港臺電視 31" tvg-name="港臺電視 31" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="Test",RTHK31 (official - DRM)
