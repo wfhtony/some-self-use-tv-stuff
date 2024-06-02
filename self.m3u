@@ -334,11 +334,11 @@ https://epg.pw/stream/e88363a4ce6a2aa625ab98e3d840c778baec8405e1adb31a1a94f5d651
 https://epg.pw/stream/e04b14233c7014451fd340e1c5d0cc6a7a47937fa22d135f61caa76777602bad.m3u8
 https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8
 
-#EXTINF:-1 tvg-id="Jade" tvg-name="Jade" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="TVB",翡翠台 (ipv4)
+#EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="TVB",翡翠台 (ipv4)
 https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
 https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
 https://epg.pw/stream/faf0a21f86cce2c13e6b0be2d9990139cc0c94d1e8c8a113df567277a6a86ef5.ctv
-#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="TVB",TVB Plus (ipv4)
+#EXTINF:-1 tvg-id="TVB J2" tvg-name="TVB J2" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="TVB",TVB Plus (ipv4)
 https://z88.ubtvfans.com/live/rx1/2834/c4e8a90ec43d655efcd7a5b1f05120d1/index.m3u8
 https://z88.ubtvfans.com/live/rx1/2834/c4e8a90ec43d655efcd7a5b1f05120d1/index.m3u8
 https://epg.pw/stream/9a785bebd7cf671d3e5a7dbac74ffb79496585788e9af2bb60760b44109c84ff.ctv
@@ -503,19 +503,19 @@ https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Jade" tvg-name="Jade" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="Test",翡翠台 (HD - DRM)
+#EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="Test",翡翠台 (HD - DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
 https://tvbanywhere.wfhtony1996.workers.dev/JUHD
 
-#EXTINF:-1 tvg-id="Jade" tvg-name="Jade" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="Test",翡翠台 (DRM)
+#EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="Test",翡翠台 (DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
 https://tvbanywhere.wfhtony1996.workers.dev/J
 
-#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="Test",TVB Plus (DRM)
+#EXTINF:-1 tvg-id="TVB J2" tvg-name="TVB J2" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="Test",TVB Plus (DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
