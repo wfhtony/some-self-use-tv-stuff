@@ -548,29 +548,29 @@ https://ythls-v2.onrender.com/video/E0zhe2gkXBs.m3u8
 https://ythls-v2.onrender.com/video/2mCSYvcfhtc.m3u8
 
 #EXTINF:-1 tvg-id="港臺電視 31" tvg-name="港臺電視 31" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="Test",RTHK31 (official - DRM)
-#EXTVLCOPT:Referrer="https://www.rthk.hk/"
-#KODIPROP:inputstream.adaptive.manifest_type="mpd"
-#KODIPROP:inputstream.adaptive.license_type="com.widevine.alpha"
-#KODIPROP:inputstream.adaptive.license_key="https://rthk.live.ott.irdeto.com/licenseServer/widevine/v1/rthk/license?contentId=RTHK_CH31_Pull_DASH_WV_PR"
+#EXTVLCOPT:http-referrer=https://www.rthk.hk/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://rthk.live.ott.irdeto.com/licenseServer/widevine/v1/rthk/license?contentId=RTHK_CH31_Pull_DASH_WV_PR
 https://rthktv31-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch31)/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
 
 #EXTINF:-1 tvg-id="港臺電視 32" tvg-name="港臺電視 32" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="Test",RTHK32 (official - DRM)
-#EXTVLCOPT:Referrer=https://www.rthk.hk/
+#EXTVLCOPT:http-referrer=https://www.rthk.hk/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://rthk.live.ott.irdeto.com/licenseServer/widevine/v1/rthk/license?contentId=RTHK_CH32_Pull_DASH_WV_PR
 https://rthktv32-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch32)/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
 
 #EXTINF:-1 tvg-id="Channel 4" tvg-name="Channel 4" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/01/Channel_4_%28On_Demand%29_2023.svg.png" group-title="Test",Channel 4 (official - DRM)
-#EXTVLCOPT:Referrer="https://www.channel4.com/"
-#KODIPROP:inputstream.adaptive.manifest_type="mpd"
-#KODIPROP:inputstream.adaptive.license_type="com.widevine.alpha"
-#KODIPROP:inputstream.adaptive.license_key="https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire"
+#EXTVLCOPT:http-referrer="https://www.channel4.com/"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest_sd.mpd
 https://olsp.live.hls.c4assets.com/hls_fps/live/channel(c4)/index_sd.m3u8
 
 #EXTINF:-1 tvg-id="E4" tvg-name="E4" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/268px-E4_logo_2018.svg.png" group-title="Test",E4 (official - DRM)
-#EXTVLCOPT:Referrer=https://www.channel4.com/
+#EXTVLCOPT:http-referrer=https://www.channel4.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire
@@ -578,7 +578,7 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest_sd.
 https://olsp.live.hls.c4assets.com/hls_fps/live/channel(e4)/index_sd.m3u8
 
 #EXTINF:-1 tvg-id="More4" tvg-name="More4" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/365px-More4_logo_2018.svg.png" group-title="Test",More4 (official - DRM)
-#EXTVLCOPT:Referrer=https://www.channel4.com/
+#EXTVLCOPT:http-referrer=https://www.channel4.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire
@@ -586,7 +586,7 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest_sd.
 https://olsp.live.hls.c4assets.com/hls_fps/live/channel(m4)/index_sd.m3u8
 
 #EXTINF:-1 tvg-id="Film4" tvg-name="Film4" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/324px-Film4_logo_2018.svg.png" group-title="Test",Film4 (official - DRM)
-#EXTVLCOPT:Referrer=https://www.channel4.com/
+#EXTVLCOPT:http-referrer=https://www.channel4.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire
@@ -594,7 +594,7 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest_sd.
 https://olsp.live.hls.c4assets.com/hls_fps/live/channel(f4)/index_sd.m3u8
 
 #EXTINF:-1 tvg-id="4seven" tvg-name="4seven" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/4seven_logo_2018.svg/272px-4seven_logo_2018.svg.png" group-title="Test",4seven (official - DRM)
-#EXTVLCOPT:Referrer=https://www.channel4.com/
+#EXTVLCOPT:http-referrer=https://www.channel4.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire
@@ -602,8 +602,9 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest_sd.
 https://olsp.live.hls.c4assets.com/hls_fps/live/channel(4s)/index_sd.m3u8
 
 #EXTINF:-1 tvg-id="KCTV" tvg-name="Korean Central Television" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/799px-Logo_of_the_Korean_Central_Television.svg.png" group-title="Test",조선중앙텔레비죤 (ipv4)
-#EXTVLCOPT:Referrer=https://kcnawatch.org/
+#EXTVLCOPT:http-referrer=https://kcnawatch.org/
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://licensing.bitmovin.com/licensing
-https://tv.nknews.org/tvdash/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
+https://tv.nknews.org/tvdash/stream.mpd
