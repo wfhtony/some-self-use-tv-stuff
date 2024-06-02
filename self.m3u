@@ -312,6 +312,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m
 https://livear.cgtn.com/1000a/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="鳳凰衛視" tvg-name="鳳凰衛視" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="鳳凰傳媒",鳳凰衛視 (ipv4)
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 https://z88.ubtvfans.com/live/rx3/2291/2b011e9f29a96046f6b0804c7ba039ef/index.m3u8
 https://z88.ubtvfans.com/live/rx1/2812/1ab4a96e4b23851cc791d361effb015a/index.m3u8
 https://epg.pw/stream/a7d73b5ffe9e9d33a8b774a4df3d623b2ba01a36f6ef70f20d1f3f9b27836330.ctv
@@ -319,16 +320,14 @@ https://epg.pw/stream/b5ceaeacd11b0331a6b3fbb0c4ef90836be87bb2c478d76b74ef1e27f3
 https://epg.pw/stream/653363b4a3d6b0c5850c53b115d02d5e5e57d7d4c2954ef7c4163640e2cdd991.ctv
 https://epg.pw/stream/91dffd2dca60b65821a94747f2f3020dfc9642bb89f86ed7fa6d8b0b7487c5d2.m3u8
 #EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="鳳凰傳媒",資訊台 (ipv4)
-http://113.64.145.91:8081/hls/36/index.m3u8
-http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 https://epg.pw/stream/6cb73e3cad873d275ae7399762214060046e7b08b051b249f8bdb95ec3fea2fc.ctv
 https://epg.pw/stream/30cd5e1750b4964bc1bedfea45649cec7531987a88a0f5dc2fb8c773b5c582f7.ctv
 https://epg.pw/stream/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
 #EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="鳳凰傳媒",資訊台 (official - YouTube)
 https://ythls-v2.onrender.com/video/HFib76ySpbU.m3u8
 #EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="鳳凰傳媒",香港台 (ipv4)
-http://113.64.145.91:8081/hls/38/index.m3u8
-http://103.95.24.37:880/fhxgt.m3u8
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
 https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 https://epg.pw/stream/e88363a4ce6a2aa625ab98e3d840c778baec8405e1adb31a1a94f5d6518982ef.m3u8
@@ -341,14 +340,11 @@ https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
 https://epg.pw/stream/faf0a21f86cce2c13e6b0be2d9990139cc0c94d1e8c8a113df567277a6a86ef5.ctv
 #EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="TVB",TVB Plus (ipv4)
 https://z88.ubtvfans.com/live/rx1/2834/c4e8a90ec43d655efcd7a5b1f05120d1/index.m3u8
-https://z88.ubtvfans.com/live/rx1/392/a8eb3028c1ce9d8eb38d3bdb55b4c171/index.m3u8
-https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
+https://z88.ubtvfans.com/live/rx1/2834/c4e8a90ec43d655efcd7a5b1f05120d1/index.m3u8
 https://epg.pw/stream/9a785bebd7cf671d3e5a7dbac74ffb79496585788e9af2bb60760b44109c84ff.ctv
 #EXTINF:-1 tvg-id="TVB 互動新聞台" tvg-name="TVB 互動新聞台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="TVB",無線新聞台 (ipv4)
-https://tv.iill.top/tvb/2
 https://z88.ubtvfans.com/live/rx1/394/ea3bdc0ef72944ed9e0438db99e557f2/index.m3u8
 https://z88.ubtvfans.com/live/rx1/45/006ff8207bf75d845e70fa88925fa6e3/index.m3u8
-http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
 #EXTINF:-1 tvg-id="Pearl" tvg-name="TVB Pearl" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="TVB",明珠台 (ipv4)
 https://z88.ubtvfans.com/live/rx1/2437/43f3e7d06eeb53f3057cb2780fd11a50/index.m3u8
 https://z88.ubtvfans.com/live/rx3/391/49c6f4b711497e559ed7ec30b2a7cde9/index.m3u8
