@@ -395,55 +395,55 @@ https://live4.tdm.com.mo/tv/ch21.live/playlist.m3u8
 #EXTINF:-1 tvg-id="立法會 葡文" tvg-name="立法會 葡文" tvg-shift="0" tvg-logo="https://cdn.tdm.com.mo/uploads/media/web_images/tdm%20new%20app%20logo.png" group-title="TDM 澳廣視",Directo das Reuniões da Assembleia de Macau (official)
 https://live4.tdm.com.mo/tv/ch22.live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/512px-BBC_News_2022_%28Alt%29.svg.png" group-title="BBC",BBC News (official - iPlayer(WW))
+#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/512px-BBC_News_2022_%28Alt%29.svg.png" group-title="BBC",BBC News (iPlayer(WW))
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/512px-BBC_News_2022_%28Alt%29.svg.png" group-title="BBC",BBC News (ipv4 - World)
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/512px-BBC_News_2022_%28Alt%29.svg.png" group-title="BBC",BBC News (official - iPlayer)
+#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/512px-BBC_News_2022_%28Alt%29.svg.png" group-title="BBC",BBC News (iPlayer)
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="BBC",BBC One (No location set) (official - iPlayer)
+#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="BBC",BBC One (No location set) (iPlayer)
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBC One London" tvg-name="BBC One London" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="BBC",BBC One (London) (official - iPlayer)
+#EXTINF:-1 tvg-id="BBC One London" tvg-name="BBC One London" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="BBC",BBC One (London) (iPlayer)
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_london.m3u8
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBC One Wales" tvg-name="BBC One Wales" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/BBC_One_Wales_2021.svg/512px-BBC_One_Wales_2021.svg.png" group-title="BBC",BBC One (Wales) (official - iPlayer)
+#EXTINF:-1 tvg-id="BBC One Wales" tvg-name="BBC One Wales" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/BBC_One_Wales_2021.svg/512px-BBC_One_Wales_2021.svg.png" group-title="BBC",BBC One (Wales) (iPlayer)
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="BBC One Northern Ireland" tvg-name="BBC One Northern Ireland" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/BBC_One_Northern_Ireland_2021.svg/512px-BBC_One_Northern_Ireland_2021.svg.png" group-title="BBC",BBC One (Northern Ireland) (official - iPlayer)
+#EXTINF:-1 tvg-id="BBC One Northern Ireland" tvg-name="BBC One Northern Ireland" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/BBC_One_Northern_Ireland_2021.svg/512px-BBC_One_Northern_Ireland_2021.svg.png" group-title="BBC",BBC One (Northern Ireland) (iPlayer)
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="BBC One Scotland" tvg-name="BBC One Scotland" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/BBC_One_Scotland_2021.svg/512px-BBC_One_Scotland_2021.svg.png" group-title="BBC",BBC One (Scotland) (official - iPlayer)
+#EXTINF:-1 tvg-id="BBC One Scotland" tvg-name="BBC One Scotland" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/BBC_One_Scotland_2021.svg/512px-BBC_One_Scotland_2021.svg.png" group-title="BBC",BBC One (Scotland) (iPlayer)
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="BBC Two" tvg-name="BBC Two" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="BBC",BBC Two (official - iPlayer)
+#EXTINF:-1 tvg-id="BBC Two" tvg-name="BBC Two" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="BBC",BBC Two (iPlayer)
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBC Two Northern Ireland" tvg-name="BBC Two Northern Ireland" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/BBC_Two_Northern_Ireland_2021.svg/512px-BBC_Two_Northern_Ireland_2021.svg.png" group-title="BBC",BBC Two Northern Ireland (official - iPlayer)
+#EXTINF:-1 tvg-id="BBC Two Northern Ireland" tvg-name="BBC Two Northern Ireland" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/BBC_Two_Northern_Ireland_2021.svg/512px-BBC_Two_Northern_Ireland_2021.svg.png" group-title="BBC",BBC Two Northern Ireland (iPlayer)
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="BBC Two Wales" tvg-name="BBC Two Wales" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/BBC_Two_Wales_2021.svg/512px-BBC_Two_Wales_2021.svg.png" group-title="BBC",BBC Two Wales (official - iPlayer)
+#EXTINF:-1 tvg-id="BBC Two Wales" tvg-name="BBC Two Wales" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/BBC_Two_Wales_2021.svg/512px-BBC_Two_Wales_2021.svg.png" group-title="BBC",BBC Two Wales (iPlayer)
 https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/BBC_Two_Wales_2021.svg/512px-BBC_Two_Wales_2021.svg.png
-#EXTINF:-1 tvg-id="BBC Three" tvg-name="BBC Three" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/800px-BBC_Three_2022.svg.png" group-title="BBC",BBC Three (official - iPlayer)
+#EXTINF:-1 tvg-id="BBC Three" tvg-name="BBC Three" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/800px-BBC_Three_2022.svg.png" group-title="BBC",BBC Three (iPlayer)
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBC Four" tvg-name="BBC Four" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="BBC",BBC Four (official - iPlayer)
+#EXTINF:-1 tvg-id="BBC Four" tvg-name="BBC Four" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="BBC",BBC Four (iPlayer)
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBC Parliament" tvg-name="BBC Parliament" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BBC_Parliament_2022.svg/512px-BBC_Parliament_2022.svg.png" group-title="BBC",BBC Parliament (official - iPlayer)
+#EXTINF:-1 tvg-id="BBC Parliament" tvg-name="BBC Parliament" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BBC_Parliament_2022.svg/512px-BBC_Parliament_2022.svg.png" group-title="BBC",BBC Parliament (iPlayer)
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/t=3840/v=pv14/b=5070016/main.m3u8
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="CBBC" tvg-name="CBBC" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CBBC_%282023%29.svg/512px-CBBC_%282023%29.svg.png" group-title="BBC",CBBC (official - iPlayer)
+#EXTINF:-1 tvg-id="CBBC" tvg-name="CBBC" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CBBC_%282023%29.svg/512px-CBBC_%282023%29.svg.png" group-title="BBC",CBBC (iPlayer)
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CBeebies_2023.svg/512px-CBeebies_2023.svg.png" group-title="BBC",CBeebies (official - iPlayer)
+#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CBeebies_2023.svg/512px-CBeebies_2023.svg.png" group-title="BBC",CBeebies (iPlayer)
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBC Scotland" tvg-name="BBC Scotland" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/512px-BBC_Scotland_2021_%28channel%29.svg.png" group-title="BBC",BBC Scotland (official - iPlayer)
+#EXTINF:-1 tvg-id="BBC Scotland" tvg-name="BBC Scotland" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/512px-BBC_Scotland_2021_%28channel%29.svg.png" group-title="BBC",BBC Scotland (iPlayer)
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/t=3840/v=pv14/b=5070016/main.m3u8
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBC Alba" tvg-name="BBC Alba" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/BBC_Alba_2021.svg/512px-BBC_Alba_2021.svg.png" group-title="BBC",BBC Alba (official - iPlayer)
+#EXTINF:-1 tvg-id="BBC Alba" tvg-name="BBC Alba" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/BBC_Alba_2021.svg/512px-BBC_Alba_2021.svg.png" group-title="BBC",BBC Alba (iPlayer)
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/t=3840/v=pv14/b=5070016/main.m3u8
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBC Red Button 1" tvg-name="BBC Red Button 1" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BBC_Red_Button_2021.svg/500px-BBC_Red_Button_2021.svg.png" group-title="BBC",BBC Red Button 1 (official - iPlayer)
+#EXTINF:-1 tvg-id="BBC Red Button 1" tvg-name="BBC Red Button 1" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BBC_Red_Button_2021.svg/500px-BBC_Red_Button_2021.svg.png" group-title="BBC",BBC Red Button 1 (iPlayer)
 https://vs-hls-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 tvg-id="AJEng" tvg-name="半島電視台英語頻道" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="Al Jazeera",Al Jazeera English (official)
@@ -503,37 +503,37 @@ https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="Test",翡翠台 (HD - DRM)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
-https://tvbanywhere.wfhtony1996.workers.dev/JUHD
-
-#EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="Test",翡翠台 (DRM)
+#EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="Test",翡翠台 (myTV - DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
 https://tvbanywhere.wfhtony1996.workers.dev/J
 
-#EXTINF:-1 tvg-id="TVB J2" tvg-name="TVB J2" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="Test",TVB Plus (DRM)
+#EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="Test",翡翠台 (4K - myTV - DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
+https://tvbanywhere.wfhtony1996.workers.dev/JUHD
+
+#EXTINF:-1 tvg-id="TVB J2" tvg-name="TVB J2" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="Test",TVB Plus (myTV - DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
 https://tvbanywhere.wfhtony1996.workers.dev/B
 
-#EXTINF:-1 tvg-id="TVB 互動新聞台" tvg-name="TVB 互動新聞台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="Test",無線新聞台 (DRM)
+#EXTINF:-1 tvg-id="TVB 互動新聞台" tvg-name="TVB 互動新聞台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="Test",無線新聞台 (myTV - DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90a0bd01d9f6cbb39839cd9b68fc26bc:51546d1f2af0547f0e961995b60a32a1
 https://tvbanywhere.wfhtony1996.workers.dev/C
 
-#EXTINF:-1 tvg-id="Pearl" tvg-name="TVB Pearl" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="Test",明珠台 (DRM)
+#EXTINF:-1 tvg-id="Pearl" tvg-name="TVB Pearl" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="Test",明珠台 (myTV - DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e04facdd91354deee318c674993b74c1:8f97a629de680af93a652c3102b65898
 https://tvbanywhere.wfhtony1996.workers.dev/P
 
-#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e5/TVB_Entertainment_News_2017_logo.png" group-title="Test",娛樂新聞台 (DRM)
+#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e5/TVB_Entertainment_News_2017_logo.png" group-title="Test",娛樂新聞台 (myTV - DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6fa0e47750b5e2fb6adf9b9a0ac431a3:a256220e6c2beaa82f4ca5fba4ec1f95
