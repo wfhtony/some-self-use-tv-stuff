@@ -539,6 +539,30 @@ https://tvbanywhere.wfhtony1996.workers.dev/P
 #KODIPROP:inputstream.adaptive.license_key=6fa0e47750b5e2fb6adf9b9a0ac431a3:a256220e6c2beaa82f4ca5fba4ec1f95
 https://tvbanywhere.wfhtony1996.workers.dev/CTVE
 
+#EXTINF:-1 tvg-id="鳳凰衛視" tvg-name="鳳凰衛視" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="Test",鳳凰衛視 (myTV - DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bca0771ba9205edb5d467ce2fdf0162:eb19c7e3cea34dc90645e33f983b15ab
+https://tvbanywhere.wfhtony1996.workers.dev/PCC
+
+#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="Test",資訊台 (myTV - DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83f7d313adfc0a5b978b9efa0421ce25:ecdc8065a46287bfb58e9f765e4eec2b
+https://tvbanywhere.wfhtony1996.workers.dev/PIN
+
+#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="Test",香港台 (myTV - DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cde62e1056eb3615dab7a3efd83f5eb4:b8685fbecf772e64154630829cf330a3
+https://tvbanywhere.wfhtony1996.workers.dev/PHK
+
+#EXTINF:-1 tvg-id="CCTV-1 港澳版" tvg-name="CCTV-1 港澳版" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="Test",CCTV-1 港澳版 (myTV - DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e50b18fee7cab76b9f2822e2ade8773a:2e2e8602b6d835ccf10ee56a9a7d91a2
+https://tvbanywhere.wfhtony1996.workers.dev/CC1
+
 #EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/EBC_News_logo_20150706.jpg/600px-EBC_News_logo_20150706.jpg" group-title="Test",東森新聞台 (official - YouTube)
 #https://www.youtube.com/watch?v=E0zhe2gkXBs
 https://ythls-v2.onrender.com/video/E0zhe2gkXBs.m3u8
