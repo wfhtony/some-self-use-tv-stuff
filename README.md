@@ -27,6 +27,7 @@
 |[take2560/takelab](https://github.com/take2560/takelab) | 由 take2560 整理的日本IPTV（IPV4）源/列表（觀看需海外IP）。|
 |[stream-link.org](https://www.stream-link.org/) | 香港網民整理的IPTV源（觀看需**非**大陸、臺灣、及cloudflare ip段），範圍主要是香港和臺灣的電視台。|
 |[mjh.nz](https://i.mjh.nz/) | 由 [matthuisman](https://github.com/matthuisman) 整理的IPTV源+epg節目表，範圍主要是英語國家的電視台+輪播頻道。 |
+|[pixman](https://pixman.io/topics/17) | 一個[四季線上4gTV](https://www.4gtv.tv)的反代程序，[最近他們在研究 myTV SUPER 的反代](https://pixman.io/topics/11)。 |
 
 附2：自己用到的觀看客戶端
 
@@ -34,6 +35,7 @@
 | --- | --- | --- |
 | [Tivimate](https://tivimate.com/) | Android | 推薦安卓盒子/平板使用，支持錄製節目，播放DRM源需要提供密鑰字段，操控需要用藍牙遙控器。一次性買斷價格爲 $33.99（官方美元定價）/ 4480円（Google Play 日區價），單帳號五台設備。 |
 | [Televizo](https://televizo.net/) | Android | 推薦安卓手機端使用，不支持錄製節目，支持觸控操作。一次性買斷價格爲 1600円（Google Play 日區價），單帳號五台設備。 |
+| [OTT Navigator](https://ottnav.github.io/faq.html) | Android | 推薦安卓盒子/平板使用，不支持錄製節目，支持觸控操作。相比Tivimate，這款可以支持重定向地址、以及支援更新的解碼器/更多DRM樣式。一次性買斷價格爲 2500円（Google Play 日區價），單帳號五台設備（許可允許追加購入）。 |
 | [Kodi](https://kodi.tv/) | PC/Android/XBOX | 跨平臺萬金油。支持通過插件來播放DRM源。 |
 | [PotPlayer](https://potplayer.daum.net/) | PC | 萬金油。mini版足矣。不支持epg。 |
 | [vlc](https://www.videolan.org/vlc/) | PC | 跨系統萬金油。不支持epg。 |
