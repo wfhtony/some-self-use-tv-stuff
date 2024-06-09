@@ -1,0 +1,24 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1 tvg-id="AJEng" tvg-name="半島電視台英語頻道" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="Al Jazeera",Al Jazeera English (official)
+https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="AJEng" tvg-name="半島電視台英語頻道" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="Al Jazeera",Al Jazeera English (official - YouTube)
+https://ythls-v2.onrender.com/video/gCNeDWCI0vo.m3u8
+#EXTINF:-1 tvg-id="AJAra" tvg-name="半島阿語" tvg-logo="https://cdn.logoeps.net/wp-content/uploads/2016/12/al_jazeera-logo.png" group-title="Al Jazeera",Al Jazeera Arabic (official)
+https://live-hls-web-aja-fa.getaj.net/AJA/01.m3u8
+#EXTINF:-1 tvg-id="AJAra" tvg-name="半島阿語" tvg-logo="https://cdn.logoeps.net/wp-content/uploads/2016/12/al_jazeera-logo.png" group-title="Al Jazeera",Al Jazeera Arabic (official - YouTube)
+https://ythls-v2.onrender.com/video/bNyUyrR0PHo.m3u8
+
+#EXTINF:-1 tvg-id="NHK World Japan" tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="NHK",NHK World Japan (official)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 tvg-id="NHK World Japan" tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="NHK",NHK World Japan (official - CC)
+https://bmcc.nhkworld.jp/live/index_1M.m3u8
+
+#EXTINF:-1 tvg-id="KCTV" tvg-name="Korean Central Television" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/799px-Logo_of_the_Korean_Central_Television.svg.png" group-title="朝鮮中央電視台",조선중앙텔레비죤 (ipv4)
+#EXTVLCOPT:http-referrer=https://kcnawatch.org/
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licensing.bitmovin.com/licensing
+https://tv.nknews.org/tvdash/stream.mpd

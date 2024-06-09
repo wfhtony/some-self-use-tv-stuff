@@ -1,0 +1,161 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1 tvg-id="鳳凰衛視" tvg-name="鳳凰衛視" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="鳳凰傳媒",鳳凰衛視 (ipv4)
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+https://z88.ubtvfans.com/live/rx3/2291/2b011e9f29a96046f6b0804c7ba039ef/index.m3u8
+https://z88.ubtvfans.com/live/rx1/2812/1ab4a96e4b23851cc791d361effb015a/index.m3u8
+https://epg.pw/stream/a7d73b5ffe9e9d33a8b774a4df3d623b2ba01a36f6ef70f20d1f3f9b27836330.ctv
+https://epg.pw/stream/b5ceaeacd11b0331a6b3fbb0c4ef90836be87bb2c478d76b74ef1e27f32326f3.ctv
+https://epg.pw/stream/653363b4a3d6b0c5850c53b115d02d5e5e57d7d4c2954ef7c4163640e2cdd991.ctv
+https://epg.pw/stream/91dffd2dca60b65821a94747f2f3020dfc9642bb89f86ed7fa6d8b0b7487c5d2.m3u8
+#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="鳳凰傳媒",資訊台 (ipv4)
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+https://epg.pw/stream/6cb73e3cad873d275ae7399762214060046e7b08b051b249f8bdb95ec3fea2fc.ctv
+https://epg.pw/stream/30cd5e1750b4964bc1bedfea45649cec7531987a88a0f5dc2fb8c773b5c582f7.ctv
+https://epg.pw/stream/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
+#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="鳳凰傳媒",資訊台 (official - YouTube)
+https://ythls-v2.onrender.com/video/HFib76ySpbU.m3u8
+#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="鳳凰傳媒",香港台 (ipv4)
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
+https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
+https://epg.pw/stream/e88363a4ce6a2aa625ab98e3d840c778baec8405e1adb31a1a94f5d6518982ef.m3u8
+https://epg.pw/stream/e04b14233c7014451fd340e1c5d0cc6a7a47937fa22d135f61caa76777602bad.m3u8
+https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8
+
+#EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="TVB",翡翠台 (ipv4)
+https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
+https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
+https://epg.pw/stream/faf0a21f86cce2c13e6b0be2d9990139cc0c94d1e8c8a113df567277a6a86ef5.ctv
+#EXTINF:-1 tvg-id="TVB J2" tvg-name="TVB J2" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="TVB",TVB Plus (ipv4)
+https://z88.ubtvfans.com/live/rx1/2834/c4e8a90ec43d655efcd7a5b1f05120d1/index.m3u8
+https://z88.ubtvfans.com/live/rx1/2834/c4e8a90ec43d655efcd7a5b1f05120d1/index.m3u8
+https://epg.pw/stream/9a785bebd7cf671d3e5a7dbac74ffb79496585788e9af2bb60760b44109c84ff.ctv
+#EXTINF:-1 tvg-id="TVB 互動新聞台" tvg-name="TVB 互動新聞台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="TVB",無線新聞台 (ipv4)
+https://z88.ubtvfans.com/live/rx1/394/ea3bdc0ef72944ed9e0438db99e557f2/index.m3u8
+https://z88.ubtvfans.com/live/rx1/45/006ff8207bf75d845e70fa88925fa6e3/index.m3u8
+#EXTINF:-1 tvg-id="Pearl" tvg-name="TVB Pearl" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="TVB",明珠台 (ipv4)
+https://z88.ubtvfans.com/live/rx1/2437/43f3e7d06eeb53f3057cb2780fd11a50/index.m3u8
+https://z88.ubtvfans.com/live/rx3/391/49c6f4b711497e559ed7ec30b2a7cde9/index.m3u8
+https://epg.pw/stream/4b6c809c8f12c14f840b1a00024562de2a134fe653509cc76ff6782f881a05d1.ctv
+https://epg.pw/stream/ac4c954ac1b36289d6279103388272849e930c79220fb88f2aa5e20146b12a48.ctv
+#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e5/TVB_Entertainment_News_2017_logo.png" group-title="TVB",娛樂新聞台 (ipv4)
+https://edge6a.v2h-cdn.com/enew/enew.stream/playlist.m3u8
+https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="港臺電視 31" tvg-name="港臺電視 31" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="RTHK 香港電臺",RTHK31 (official)
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-id="港臺電視 32" tvg-name="港臺電視 32" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="RTHK 香港電臺",RTHK32 (official)
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a7/RTHK_TV_33.svg/300px-RTHK_TV_33.svg.png" group-title="RTHK 香港電臺",RTHK33 (CCTV-1) (official)
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="CGTN Documentary" tvg-name="CGTN Documentary" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f9/RTHK_TV_34.svg/300px-RTHK_TV_34.svg.png" group-title="RTHK 香港電臺",RTHK34 (CGTN Documentary) (official)
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/85/RTHK_TV_35.svg/300px-RTHK_TV_35.svg.png" group-title="RTHK 香港電臺",RTHK35 (CGTN English) (official)
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/viutv.png" group-title="ViuTV 香港電視娛樂",ViuTV (ipv4)
+https://z88.ubtvfans.com/live/rx1/2334/fba30fd4af785fb0451bcccfdf475e79/index.m3u8
+https://z88.ubtvfans.com/live/rx1/72/45683d738c0c0f8cc659cb4126f5dad3/index.m3u8
+#EXTINF:-1 tvg-id="ViuTV Six" tvg-name="ViuTV Six" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/viutv6.png" group-title="ViuTV 香港電視娛樂",ViuTVsix (ipv4)
+https://z88.ubtvfans.com/live/rx1/176/32178352c5da72e5fd918a653c6fc9ae/index.m3u8
+
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-shift="-8" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/HOY_TV_%282%29.png/revision/latest/?cb=20231221130409&path-prefix=vi" group-title="HOY 有線寬頻開電視",HOY TV (official)
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:-1 tvg-id="HOY TV 資訊台" tvg-name="HOY TV 資訊台" tvg-shift="-8" tvg-logo="https://www.hko.gov.hk/tc/video/images/icon_hoy_infotainment.png" group-title="HOY 有線寬頻開電視",HOY資訊台 (official)
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/2b/HoYIBC_logo.png" group-title="HOY 有線寬頻開電視",HOY國際財經台 (official)
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+
+#EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-shift="0" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" group-title="TDM 澳廣視",澳視澳門 Ch.91 (official)
+https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳視葡文" tvg-name="澳視葡文" tvg-shift="0" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" group-title="TDM 澳廣視",澳視葡文 Ch.92 (official)
+https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳門體育" tvg-name="澳門體育" tvg-shift="0" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" group-title="TDM 澳廣視",澳門體育 Ch.93 (official)
+https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳門資訊" tvg-name="澳門資訊" tvg-shift="0" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" group-title="TDM 澳廣視",澳門資訊 Ch.94 (official)
+https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳門綜藝" tvg-name="澳門綜藝" tvg-shift="0" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-03/3a515e0352b60f146b1c6a79ddd4c54d.png" group-title="TDM 澳廣視",澳門綜藝 Ch.95 (official)
+https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-id="MACAU 衛星" tvg-name="MACAU 衛星" tvg-shift="0" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" group-title="TDM 澳廣視",澳門衛星頻道 Ch.96 (official)
+https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="立法會" tvg-name="立法會" tvg-shift="0" tvg-logo="https://cdn.tdm.com.mo/uploads/media/web_images/tdm%20new%20app%20logo.png" group-title="TDM 澳廣視",立法會直播 (official)
+https://live4.tdm.com.mo/tv/ch21.live/playlist.m3u8
+#EXTINF:-1 tvg-id="立法會 葡文" tvg-name="立法會 葡文" tvg-shift="0" tvg-logo="https://cdn.tdm.com.mo/uploads/media/web_images/tdm%20new%20app%20logo.png" group-title="TDM 澳廣視",Directo das Reuniões da Assembleia de Macau (official)
+https://live4.tdm.com.mo/tv/ch22.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="Test",翡翠台 (myTV - DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
+https://tvbanywhere.wfhtony1996.workers.dev/J
+
+#EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="Test",翡翠台 (4K - myTV - DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
+https://tvbanywhere.wfhtony1996.workers.dev/JUHD
+
+#EXTINF:-1 tvg-id="TVB J2" tvg-name="TVB J2" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="Test",TVB Plus (myTV - DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
+https://tvbanywhere.wfhtony1996.workers.dev/B
+
+#EXTINF:-1 tvg-id="TVB 互動新聞台" tvg-name="TVB 互動新聞台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="Test",無線新聞台 (myTV - DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90a0bd01d9f6cbb39839cd9b68fc26bc:51546d1f2af0547f0e961995b60a32a1
+https://tvbanywhere.wfhtony1996.workers.dev/C
+
+#EXTINF:-1 tvg-id="Pearl" tvg-name="TVB Pearl" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="Test",明珠台 (myTV - DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e04facdd91354deee318c674993b74c1:8f97a629de680af93a652c3102b65898
+https://tvbanywhere.wfhtony1996.workers.dev/P
+
+#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e5/TVB_Entertainment_News_2017_logo.png" group-title="Test",娛樂新聞台 (myTV - DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fa0e47750b5e2fb6adf9b9a0ac431a3:a256220e6c2beaa82f4ca5fba4ec1f95
+https://tvbanywhere.wfhtony1996.workers.dev/CTVE
+
+#EXTINF:-1 tvg-id="鳳凰衛視" tvg-name="鳳凰衛視" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="Test",鳳凰衛視 (myTV - DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bca0771ba9205edb5d467ce2fdf0162:eb19c7e3cea34dc90645e33f983b15ab
+https://tvbanywhere.wfhtony1996.workers.dev/PCC
+
+#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="Test",資訊台 (myTV - DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83f7d313adfc0a5b978b9efa0421ce25:ecdc8065a46287bfb58e9f765e4eec2b
+https://tvbanywhere.wfhtony1996.workers.dev/PIN
+
+#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="Test",香港台 (myTV - DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cde62e1056eb3615dab7a3efd83f5eb4:b8685fbecf772e64154630829cf330a3
+https://tvbanywhere.wfhtony1996.workers.dev/PHK
+
+#EXTINF:-1 tvg-id="CCTV-1 港澳版" tvg-name="CCTV-1 港澳版" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="Test",CCTV-1 港澳版 (myTV - DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e50b18fee7cab76b9f2822e2ade8773a:2e2e8602b6d835ccf10ee56a9a7d91a2
+https://tvbanywhere.wfhtony1996.workers.dev/CC1
+
+#EXTINF:-1 tvg-id="港臺電視 31" tvg-name="港臺電視 31" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="Test",RTHK31 (official - DRM)
+#EXTVLCOPT:http-referrer=https://www.rthk.hk/
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://rthk.live.ott.irdeto.com/licenseServer/widevine/v1/rthk/license?contentId=RTHK_CH31_Pull_DASH_WV_PR
+https://rthktv31-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch31)/master.mpd
+
+#EXTINF:-1 tvg-id="港臺電視 32" tvg-name="港臺電視 32" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="Test",RTHK32 (official - DRM)
+#EXTVLCOPT:http-referrer=https://www.rthk.hk/
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://rthk.live.ott.irdeto.com/licenseServer/widevine/v1/rthk/license?contentId=RTHK_CH32_Pull_DASH_WV_PR
+https://rthktv32-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch32)/master.mpd
