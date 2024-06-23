@@ -1,118 +1,118 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_DE.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1 tvg-id="Deutsche Welle" tvg-name="Deutsche Welle" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/743px-Deutsche_Welle_Logo.svg.png" group-title="ARD Mediathek",Deutsche Welle (official)
+#EXTINF:-1 tvg-id="Deutsche Welle" tvg-name="Deutsche Welle" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/743px-Deutsche_Welle_Logo.svg.png" group-title="ARD Mediathek",Deutsche Welle (official)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="Das Erste" tvg-name="Das Erste" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Das_Erste_HD_Corner-Logo_2015.png/800px-Das_Erste_HD_Corner-Logo_2015.png" group-title="ARD Mediathek",Das Erste (official)
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="Das Erste" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Das_Erste_HD_Corner-Logo_2015.png/800px-Das_Erste_HD_Corner-Logo_2015.png" group-title="ARD Mediathek",Das Erste (official)
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
-#EXTINF:-1 tvg-id="ZDF" tvg-name="ZDF" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ZDF_HD_Logo.svg/800px-ZDF_HD_Logo.svg.png" group-title="ZDFmediathek",ZDF (official)
+#EXTINF:-1 tvg-id="ZDF" tvg-name="ZDF" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ZDF_HD_Logo.svg/800px-ZDF_HD_Logo.svg.png" group-title="ZDFmediathek",ZDF (official)
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 
-#EXTINF:-1 tvg-id="ZDFneo" tvg-name="ZDFneo" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ZDFneo_HD_%282017%29.png" group-title="ZDFmediathek",ZDFneo (official)
+#EXTINF:-1 tvg-id="ZDFneo" tvg-name="ZDFneo" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ZDFneo_HD_%282017%29.png" group-title="ZDFmediathek",ZDFneo (official)
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 
-#EXTINF:-1 tvg-id="ZDFinfo" tvg-name="ZDFinfo" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ZDF_info_HD.svg/554px-ZDF_info_HD.svg.png" group-title="ZDFmediathek",ZDFinfo (official)
+#EXTINF:-1 tvg-id="ZDFinfo" tvg-name="ZDFinfo" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ZDF_info_HD.svg/554px-ZDF_info_HD.svg.png" group-title="ZDFmediathek",ZDFinfo (official)
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 
-#EXTINF:-1 tvg-id="BR Fernsehen Nord" tvg-name="BR Fernsehen Nord" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_BR_Fernsehen_2021.svg/512px-Logo_BR_Fernsehen_2021.svg.png" group-title="ARD Mediathek",BR Fernsehen - Nord (official)
+#EXTINF:-1 tvg-id="BR Fernsehen Nord" tvg-name="BR Fernsehen Nord" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_BR_Fernsehen_2021.svg/512px-Logo_BR_Fernsehen_2021.svg.png" group-title="ARD Mediathek",BR Fernsehen - Nord (official)
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 
-#EXTINF:-1 tvg-id="BR Fernsehen Süd" tvg-name="BR Fernsehen Süd" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_BR_Fernsehen_2021.svg/512px-Logo_BR_Fernsehen_2021.svg.png" group-title="ARD Mediathek",BR Fernsehen - Süd (official)
+#EXTINF:-1 tvg-id="BR Fernsehen Süd" tvg-name="BR Fernsehen Süd" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_BR_Fernsehen_2021.svg/512px-Logo_BR_Fernsehen_2021.svg.png" group-title="ARD Mediathek",BR Fernsehen - Süd (official)
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 
-#EXTINF:-1 tvg-id="HR-Fernsehen" tvg-name="HR-Fernsehen" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HR-Fernsehen_Logo_2023.svg/512px-HR-Fernsehen_Logo_2023.svg.png" group-title="ARD Mediathek",hr-fernsehen (official)
+#EXTINF:-1 tvg-id="HR-Fernsehen" tvg-name="HR-Fernsehen" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HR-Fernsehen_Logo_2023.svg/512px-HR-Fernsehen_Logo_2023.svg.png" group-title="ARD Mediathek",hr-fernsehen (official)
 https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
 
-#EXTINF:-1 tvg-id="MDR Sachsen" tvg-name="MDR Sachsen" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/556px-MDR_Logo_2017.svg.png" group-title="ARD Mediathek",MDR Sachsen (official)
+#EXTINF:-1 tvg-id="MDR Sachsen" tvg-name="MDR Sachsen" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/556px-MDR_Logo_2017.svg.png" group-title="ARD Mediathek",MDR Sachsen (official)
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
 
-#EXTINF:-1 tvg-id="MDR Sachsen-Anhalt" tvg-name="MDR Sachsen-Anhalt" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/556px-MDR_Logo_2017.svg.png" group-title="ARD Mediathek",MDR Sachsen-Anhalt (official)
+#EXTINF:-1 tvg-id="MDR Sachsen-Anhalt" tvg-name="MDR Sachsen-Anhalt" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/556px-MDR_Logo_2017.svg.png" group-title="ARD Mediathek",MDR Sachsen-Anhalt (official)
 https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8
 
-#EXTINF:-1 tvg-id="MDR Thüringen" tvg-name="MDR Thüringen" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/556px-MDR_Logo_2017.svg.png" group-title="ARD Mediathek",MDR Thüringen (official)
+#EXTINF:-1 tvg-id="MDR Thüringen" tvg-name="MDR Thüringen" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/556px-MDR_Logo_2017.svg.png" group-title="ARD Mediathek",MDR Thüringen (official)
 https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
 
-#EXTINF:-1 tvg-id="NDR Fernsehen Hamburg" tvg-name="NDR Fernsehen Hamburg" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/354px-NDR_HD.svg.png" group-title="ARD Mediathek",NDR Fernsehen Hamburg (official)
+#EXTINF:-1 tvg-id="NDR Fernsehen Hamburg" tvg-name="NDR Fernsehen Hamburg" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/354px-NDR_HD.svg.png" group-title="ARD Mediathek",NDR Fernsehen Hamburg (official)
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
 
-#EXTINF:-1 tvg-id="NDR Fernsehen Mecklenburg-Vorpommern" tvg-name="NDR Fernsehen Mecklenburg-Vorpommern" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/354px-NDR_HD.svg.png" group-title="ARD Mediathek",NDR Fernsehen Mecklenburg-Vorpommern (official)
+#EXTINF:-1 tvg-id="NDR Fernsehen Mecklenburg-Vorpommern" tvg-name="NDR Fernsehen Mecklenburg-Vorpommern" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/354px-NDR_HD.svg.png" group-title="ARD Mediathek",NDR Fernsehen Mecklenburg-Vorpommern (official)
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
 
-#EXTINF:-1 tvg-id="NDR Fernsehen Niedersachsen" tvg-name="NDR Fernsehen Niedersachsen" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/354px-NDR_HD.svg.png" group-title="ARD Mediathek",NDR Fernsehen Niedersachsen (official)
+#EXTINF:-1 tvg-id="NDR Fernsehen Niedersachsen" tvg-name="NDR Fernsehen Niedersachsen" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/354px-NDR_HD.svg.png" group-title="ARD Mediathek",NDR Fernsehen Niedersachsen (official)
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 
-#EXTINF:-1 tvg-id="NDR Fernsehen Schleswig-Holstein" tvg-name="NDR Fernsehen Schleswig-Holstein" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/354px-NDR_HD.svg.png" group-title="ARD Mediathek",NDR Fernsehen Schleswig-Holstein (official)
+#EXTINF:-1 tvg-id="NDR Fernsehen Schleswig-Holstein" tvg-name="NDR Fernsehen Schleswig-Holstein" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/354px-NDR_HD.svg.png" group-title="ARD Mediathek",NDR Fernsehen Schleswig-Holstein (official)
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
 
-#EXTINF:-1 tvg-id="Radio Bremen TV" tvg-name="Radio Bremen TV" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Radio_Bremen_TV_Logo_2015.svg/799px-Radio_Bremen_TV_Logo_2015.svg.png" group-title="ARD Mediathek",Radio Bremen TV (official)
+#EXTINF:-1 tvg-id="Radio Bremen TV" tvg-name="Radio Bremen TV" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Radio_Bremen_TV_Logo_2015.svg/799px-Radio_Bremen_TV_Logo_2015.svg.png" group-title="ARD Mediathek",Radio Bremen TV (official)
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 
-#EXTINF:-1 tvg-id="rbb Fernsehen Berlin" tvg-name="rbb Fernsehen Berlin" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Rbb_fernsehen_HD_Logo_2017.svg/800px-Rbb_fernsehen_HD_Logo_2017.svg.png" group-title="ARD Mediathek",rbb Fernsehen Berlin (official)
+#EXTINF:-1 tvg-id="rbb Fernsehen Berlin" tvg-name="rbb Fernsehen Berlin" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Rbb_fernsehen_HD_Logo_2017.svg/800px-Rbb_fernsehen_HD_Logo_2017.svg.png" group-title="ARD Mediathek",rbb Fernsehen Berlin (official)
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8
 
-#EXTINF:-1 tvg-id="rbb Fernsehen Brandenburg" tvg-name="rbb Fernsehen Brandenburg" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Rbb_fernsehen_HD_Logo_2017.svg/800px-Rbb_fernsehen_HD_Logo_2017.svg.png" group-title="ARD Mediathek",rbb Fernsehen Brandenburg (official)
+#EXTINF:-1 tvg-id="rbb Fernsehen Brandenburg" tvg-name="rbb Fernsehen Brandenburg" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Rbb_fernsehen_HD_Logo_2017.svg/800px-Rbb_fernsehen_HD_Logo_2017.svg.png" group-title="ARD Mediathek",rbb Fernsehen Brandenburg (official)
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/index.m3u8
 
-#EXTINF:-1 tvg-id="SR Fernsehen" tvg-name="SR Fernsehen" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_Fernsehen_Logo_2023.svg/512px-SR_Fernsehen_Logo_2023.svg.png" group-title="ARD Mediathek",SR Fernsehen (official)
+#EXTINF:-1 tvg-id="SR Fernsehen" tvg-name="SR Fernsehen" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_Fernsehen_Logo_2023.svg/512px-SR_Fernsehen_Logo_2023.svg.png" group-title="ARD Mediathek",SR Fernsehen (official)
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 
-#EXTINF:-1 tvg-id="SWR Baden-Württemberg" tvg-name="SWR Baden-Württemberg" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/512px-SWR_Logo_2023.svg.png" group-title="ARD Mediathek",SWR Baden-Württemberg (official)
+#EXTINF:-1 tvg-id="SWR Baden-Württemberg" tvg-name="SWR Baden-Württemberg" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/512px-SWR_Logo_2023.svg.png" group-title="ARD Mediathek",SWR Baden-Württemberg (official)
 https://mcdn.swr.de/swr/swrbwd/master.m3u8
 
-#EXTINF:-1 tvg-id="SWR Rheinland-Pfalz" tvg-name="SWR Rheinland-Pfalz" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/512px-SWR_Logo_2023.svg.png" group-title="ARD Mediathek",SWR Rheinland-Pfalz (official)
+#EXTINF:-1 tvg-id="SWR Rheinland-Pfalz" tvg-name="SWR Rheinland-Pfalz" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/512px-SWR_Logo_2023.svg.png" group-title="ARD Mediathek",SWR Rheinland-Pfalz (official)
 https://mcdn.swr.de/swr/swrrpd/master.m3u8
 
-#EXTINF:-1 tvg-id="WDR" tvg-name="WDR" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/WDR_HD_Logo_2019.svg/512px-WDR_HD_Logo_2019.svg.png" group-title="ARD Mediathek",WDR (official)
+#EXTINF:-1 tvg-id="WDR" tvg-name="WDR" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/WDR_HD_Logo_2019.svg/512px-WDR_HD_Logo_2019.svg.png" group-title="ARD Mediathek",WDR (official)
 https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
 
-#EXTINF:-1 tvg-id="WDR Aachen" tvg-name="WDR Aachen" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/WDR_HD_Logo_2019.svg/512px-WDR_HD_Logo_2019.svg.png" group-title="ARD Mediathek",WDR Aachen (official)
+#EXTINF:-1 tvg-id="WDR Aachen" tvg-name="WDR Aachen" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/WDR_HD_Logo_2019.svg/512px-WDR_HD_Logo_2019.svg.png" group-title="ARD Mediathek",WDR Aachen (official)
 https://wdrlokalzeit.akamaized.net/hls/live/2018019/wdrlz_aachen/master.m3u8
 
-#EXTINF:-1 tvg-id="WDR Bielefeld" tvg-name="WDR Bielefeld" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/WDR_HD_Logo_2019.svg/512px-WDR_HD_Logo_2019.svg.png" group-title="ARD Mediathek",WDR Bielefeld (official)
+#EXTINF:-1 tvg-id="WDR Bielefeld" tvg-name="WDR Bielefeld" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/WDR_HD_Logo_2019.svg/512px-WDR_HD_Logo_2019.svg.png" group-title="ARD Mediathek",WDR Bielefeld (official)
 https://wdrlokalzeit.akamaized.net/hls/live/2018026/wdrlz_bielefeld/master.m3u8
 
-#EXTINF:-1 tvg-id="WDR Bonn" tvg-name="WDR Bonn" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/WDR_HD_Logo_2019.svg/512px-WDR_HD_Logo_2019.svg.png" group-title="ARD Mediathek",WDR Bonn (official)
+#EXTINF:-1 tvg-id="WDR Bonn" tvg-name="WDR Bonn" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/WDR_HD_Logo_2019.svg/512px-WDR_HD_Logo_2019.svg.png" group-title="ARD Mediathek",WDR Bonn (official)
 https://wdrlokalzeit.akamaized.net/hls/live/2018021/wdrlz_bonn/master.m3u8
 
-#EXTINF:-1 tvg-id="WDR Dortmund" tvg-name="WDR Dortmund" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/WDR_HD_Logo_2019.svg/512px-WDR_HD_Logo_2019.svg.png" group-title="ARD Mediathek",WDR Dortmund (official)
+#EXTINF:-1 tvg-id="WDR Dortmund" tvg-name="WDR Dortmund" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/WDR_HD_Logo_2019.svg/512px-WDR_HD_Logo_2019.svg.png" group-title="ARD Mediathek",WDR Dortmund (official)
 https://wdrlokalzeit.akamaized.net/hls/live/2018022/wdrlz_dortmund/master.m3u8
 
-#EXTINF:-1 tvg-id="WDR Düsseldorf" tvg-name="WDR Düsseldorf" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/WDR_HD_Logo_2019.svg/512px-WDR_HD_Logo_2019.svg.png" group-title="ARD Mediathek",WDR Düsseldorf (official)
+#EXTINF:-1 tvg-id="WDR Düsseldorf" tvg-name="WDR Düsseldorf" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/WDR_HD_Logo_2019.svg/512px-WDR_HD_Logo_2019.svg.png" group-title="ARD Mediathek",WDR Düsseldorf (official)
 https://wdrlokalzeit.akamaized.net/hls/live/2018023/wdrlz_duesseldorf/master.m3u8
 
-#EXTINF:-1 tvg-id="WDR Duisburg" tvg-name="WDR Duisburg" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/WDR_HD_Logo_2019.svg/512px-WDR_HD_Logo_2019.svg.png" group-title="ARD Mediathek",WDR Duisburg (official)
+#EXTINF:-1 tvg-id="WDR Duisburg" tvg-name="WDR Duisburg" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/WDR_HD_Logo_2019.svg/512px-WDR_HD_Logo_2019.svg.png" group-title="ARD Mediathek",WDR Duisburg (official)
 https://wdrlokalzeit.akamaized.net/hls/live/2018024/wdrlz_duisburg/master.m3u8
 
-#EXTINF:-1 tvg-id="WDR Essen" tvg-name="WDR Essen" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/WDR_HD_Logo_2019.svg/512px-WDR_HD_Logo_2019.svg.png" group-title="ARD Mediathek",WDR Essen (official)
+#EXTINF:-1 tvg-id="WDR Essen" tvg-name="WDR Essen" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/WDR_HD_Logo_2019.svg/512px-WDR_HD_Logo_2019.svg.png" group-title="ARD Mediathek",WDR Essen (official)
 https://wdrlokalzeit.akamaized.net/hls/live/2018027/wdrlz_essen/master.m3u8
 
-#EXTINF:-1 tvg-id="WDR Münster" tvg-name="WDR Münster" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/WDR_HD_Logo_2019.svg/512px-WDR_HD_Logo_2019.svg.png" group-title="ARD Mediathek",WDR Münster (official)
+#EXTINF:-1 tvg-id="WDR Münster" tvg-name="WDR Münster" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/WDR_HD_Logo_2019.svg/512px-WDR_HD_Logo_2019.svg.png" group-title="ARD Mediathek",WDR Münster (official)
 https://wdrlokalzeit.akamaized.net/hls/live/2018025/wdrlz_muensterland/master.m3u8
 
-#EXTINF:-1 tvg-id="WDR Siegen" tvg-name="WDR Siegen" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/WDR_HD_Logo_2019.svg/512px-WDR_HD_Logo_2019.svg.png" group-title="ARD Mediathek",WDR Siegen (official)
+#EXTINF:-1 tvg-id="WDR Siegen" tvg-name="WDR Siegen" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/WDR_HD_Logo_2019.svg/512px-WDR_HD_Logo_2019.svg.png" group-title="ARD Mediathek",WDR Siegen (official)
 https://wdrlokalzeit.akamaized.net/hls/live/2018020/wdrlz_siegen/master.m3u8
 
-#EXTINF:-1 tvg-id="WDR Wuppertal" tvg-name="WDR Wuppertal" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/WDR_HD_Logo_2019.svg/512px-WDR_HD_Logo_2019.svg.png" group-title="ARD Mediathek",WDR Wuppertal (official)
+#EXTINF:-1 tvg-id="WDR Wuppertal" tvg-name="WDR Wuppertal" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/WDR_HD_Logo_2019.svg/512px-WDR_HD_Logo_2019.svg.png" group-title="ARD Mediathek",WDR Wuppertal (official)
 https://wdrlokalzeit.akamaized.net/hls/live/2018028/wdrlz_wuppertal/master.m3u8
 
-#EXTINF:-1 tvg-id="One" tvg-name="One" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/One_HD_Logo.svg/214px-One_HD_Logo.svg.png" group-title="ARD Mediathek",One (official)
+#EXTINF:-1 tvg-id="One" tvg-name="One" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/One_HD_Logo.svg/214px-One_HD_Logo.svg.png" group-title="ARD Mediathek",One (official)
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
 
-#EXTINF:-1 tvg-id="3sat" tvg-name="3sat" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/3sat_HD_2019.svg/800px-3sat_HD_2019.svg.png" group-title="ARD Mediathek;ZDFmediathek",3sat (official)
+#EXTINF:-1 tvg-id="3sat" tvg-name="3sat" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/3sat_HD_2019.svg/800px-3sat_HD_2019.svg.png" group-title="ARD und ZDF",3sat (official)
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 
-#EXTINF:-1 tvg-id="arte" tvg-name="arte" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/103px-Arte_Logo_2017.svg.png" group-title="ARD Mediathek;ZDFmediathek",arte (official)
+#EXTINF:-1 tvg-id="arte" tvg-name="arte" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/103px-Arte_Logo_2017.svg.png" group-title="ARD und ZDF",arte (official)
 https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 
-#EXTINF:-1 tvg-id="KiKA" tvg-name="KiKA" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/616px-Kika_2012.svg.png" group-title="ARD Mediathek;ZDFmediathek",KiKA (official)
+#EXTINF:-1 tvg-id="KiKA" tvg-name="KiKA" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/616px-Kika_2012.svg.png" group-title="ARD und ZDF",KiKA (official)
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 
-#EXTINF:-1 tvg-id="ARD alpha" tvg-name="ARD alpha" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ARD-alpha_logo_2019-01-07.svg/318px-ARD-alpha_logo_2019-01-07.svg.png" group-title="ARD Mediathek",ARD alpha (official)
+#EXTINF:-1 tvg-id="ARD alpha" tvg-name="ARD alpha" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ARD-alpha_logo_2019-01-07.svg/318px-ARD-alpha_logo_2019-01-07.svg.png" group-title="ARD Mediathek",ARD alpha (official)
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 
-#EXTINF:-1 tvg-id="Tagesschau24" tvg-name="Tagesschau24" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/301px-Tagesschau24-2012.svg.png" group-title="ARD Mediathek",Tagesschau24 (official)
+#EXTINF:-1 tvg-id="Tagesschau24" tvg-name="Tagesschau24" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/301px-Tagesschau24-2012.svg.png" group-title="ARD Mediathek",Tagesschau24 (official)
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 
-#EXTINF:-1 tvg-id="phoenix" tvg-name="phoenix" tvg-shift="-12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Phoenix_Logo_2018_ohne_Claim.svg/117px-Phoenix_Logo_2018_ohne_Claim.svg.png" group-title="ARD Mediathek;ZDFmediathek",phoenix (official)
+#EXTINF:-1 tvg-id="phoenix" tvg-name="phoenix" tvg-shift="-8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Phoenix_Logo_2018_ohne_Claim.svg/117px-Phoenix_Logo_2018_ohne_Claim.svg.png" group-title="ARD und ZDF",phoenix (official)
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
