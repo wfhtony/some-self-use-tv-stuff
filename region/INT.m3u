@@ -15,6 +15,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="NHK World Japan" tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="NHK",NHK World Japan (official - CC)
 https://bmcc.nhkworld.jp/live/index_1M.m3u8
 
+
 #EXTINF:-1 tvg-id="KCTV" tvg-name="Korean Central Television" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/799px-Logo_of_the_Korean_Central_Television.svg.png" group-title="朝鮮中央電視台",조선중앙텔레비죤 (ipv4 - KCNA)
 #EXTVLCOPT:http-referrer=https://kcnawatch.org/
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
