@@ -54,27 +54,23 @@ https://vs-hls-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red
 #EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/178px-Sky_News_logo.svg.png" group-title="Sky Group",Sky News (official)
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
-#EXTINF:-1 tvg-id="Channel 4" tvg-name="Channel 4" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/01/Channel_4_%28On_Demand%29_2023.svg.png" group-title="Test",Channel 4 (official - DRM)
+#EXTINF:-1 tvg-id="Channel 4" tvg-name="Channel 4" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/01/Channel_4_%28On_Demand%29_2023.svg.png" group-title="Channel 4",Channel 4 (official - DRM)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
-
-#EXTINF:-1 tvg-id="E4" tvg-name="E4" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/268px-E4_logo_2018.svg.png" group-title="Test",E4 (official - DRM)
+#EXTINF:-1 tvg-id="E4" tvg-name="E4" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/268px-E4_logo_2018.svg.png" group-title="Channel 4",E4 (official - DRM)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
-
-#EXTINF:-1 tvg-id="More4" tvg-name="More4" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/365px-More4_logo_2018.svg.png" group-title="Test",More4 (official - DRM)
+#EXTINF:-1 tvg-id="More4" tvg-name="More4" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/365px-More4_logo_2018.svg.png" group-title="Channel 4",More4 (official - DRM)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=000000000000000000000000006d340a:efee11d60dd6a2afb6865fc141e1c4a0
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
-
-#EXTINF:-1 tvg-id="Film4" tvg-name="Film4" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/324px-Film4_logo_2018.svg.png" group-title="Test",Film4 (official - DRM)
+#EXTINF:-1 tvg-id="Film4" tvg-name="Film4" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/324px-Film4_logo_2018.svg.png" group-title="Channel 4",Film4 (official - DRM)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
-
-#EXTINF:-1 tvg-id="4seven" tvg-name="4seven" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/4seven_logo_2018.svg/272px-4seven_logo_2018.svg.png" group-title="Test",4seven (official - DRM)
+#EXTINF:-1 tvg-id="4seven" tvg-name="4seven" tvg-shift="-16" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/4seven_logo_2018.svg/272px-4seven_logo_2018.svg.png" group-title="Channel 4",4seven (official - DRM)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
