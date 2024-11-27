@@ -1,6 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="鳳凰衛視" tvg-name="鳳凰衛視" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="鳳凰傳媒",鳳凰衛視 (ipv4)
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 https://z88.ubtvfans.com/live/rx3/2291/2b011e9f29a96046f6b0804c7ba039ef/index.m3u8
@@ -10,6 +11,7 @@ https://epg.pw/stream/b5ceaeacd11b0331a6b3fbb0c4ef90836be87bb2c478d76b74ef1e27f3
 https://epg.pw/stream/653363b4a3d6b0c5850c53b115d02d5e5e57d7d4c2954ef7c4163640e2cdd991.ctv
 https://epg.pw/stream/91dffd2dca60b65821a94747f2f3020dfc9642bb89f86ed7fa6d8b0b7487c5d2.m3u8
 #EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="鳳凰傳媒",資訊台 (ipv4)
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 https://epg.pw/stream/6cb73e3cad873d275ae7399762214060046e7b08b051b249f8bdb95ec3fea2fc.ctv
@@ -18,6 +20,7 @@ https://epg.pw/stream/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd
 #EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="鳳凰傳媒",資訊台 (official - YouTube)
 https://ythls-v2.onrender.com/video/HFib76ySpbU.m3u8
 #EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="鳳凰傳媒",香港台 (ipv4)
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
@@ -58,6 +61,7 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPla
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/viutv.png" group-title="ViuTV 香港電視娛樂",ViuTV (ipv4)
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 https://z88.ubtvfans.com/live/rx1/2334/fba30fd4af785fb0451bcccfdf475e79/index.m3u8
 https://z88.ubtvfans.com/live/rx1/72/45683d738c0c0f8cc659cb4126f5dad3/index.m3u8
 #EXTINF:-1 tvg-id="ViuTV Six" tvg-name="ViuTV Six" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/viutv6.png" group-title="ViuTV 香港電視娛樂",ViuTVsix (ipv4)
