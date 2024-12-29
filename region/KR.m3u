@@ -1,0 +1,35 @@
+#EXTM3U
+##EXTM3U x-tvg-url="404" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1 tvg-id="Arirang TV" tvg-name="Arirang TV" tvg-shift="-9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/1280px-Arirang.svg.png" group-title="Arirang",Arirang TV (official)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" tvg-shift="-9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png" group-title="KBS 韓國放送公社",KBS World (official)
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF:-1 tvg-id="KTV" tvg-name="KTV" tvg-shift="-9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/KTV_logo.svg/1280px-KTV_logo.svg.png" group-title="KTV 國民放送",KTV 국민방송 (official)
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC" tvg-shift="-9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/%EB%8C%80%EC%A0%84_MBC.svg/1024px-%EB%8C%80%EC%A0%84_MBC.svg.png" group-title="MBC 文化放送",MBC大田 (official)
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-shift="-9" tvg-logo="https://tbs.seoul.kr/common/images/footer/logo.png" group-title="미디어재단 TBS",TBS서울 (official)
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBS1" tvg-name="EBS1" tvg-shift="-9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/1280px-EBS_1TV_Logo.svg.png" group-title="EBS 韓國敎育放送公社",EBS 1 (official)
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBS2" tvg-name="EBS2" tvg-shift="-9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/1280px-EBS_2TV_Logo.svg.png" group-title="EBS 韓國敎育放送公社",EBS 2 (official)
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBS Kids" tvg-name="EBS Kids" tvg-shift="-9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/1280px-EBS_KIDS.svg.png" group-title="EBS 韓國敎育放送公社",EBS KIDS (official)
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBS Plus 1" tvg-name="EBS Plus 1" tvg-shift="-9" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/EBS_Plus_1.svg/revision/latest/?format=original" group-title="EBS 韓國敎育放送公社",EBS Plus 1 (official)
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBS Plus 2" tvg-name="EBS Plus 2" tvg-shift="-9" tvg-logo="https://m.ebs.co.kr/common/images/m_evt/media05.png" group-title="EBS 韓國敎育放送公社",EBS Plus 2 (official)
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBSe" tvg-name="EBSe" tvg-shift="-9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/EBS_English_logo.svg/1280px-EBS_English_logo.svg.png" group-title="EBS 韓國敎育放送公社",EBS english (official)
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
