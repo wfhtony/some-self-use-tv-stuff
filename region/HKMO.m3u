@@ -169,10 +169,3 @@ https://rthktv31-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch31)/mas
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://rthk.live.ott.irdeto.com/licenseServer/widevine/v1/rthk/license?contentId=RTHK_CH32_Pull_DASH_WV_PR
 https://rthktv32-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch32)/master.mpd
-
-#EXTINF:-1 tvg-id="HKJC" tvg-name="香港馬會賽日收音機" tvg-shift="0" tvg-logo="https://www.hdicon.com/wp-content/uploads/2013/12/HKJC_1997.png" group-title="香港馬會",賽日收音機（粵語）
-https://hkjclive-hls.akamaized.net/hls/live/2030947/can_hls/can/Audio/yue/can.m3u8
-#EXTINF:-1 tvg-id="HKJC" tvg-name="香港馬會賽日收音機" tvg-shift="0" tvg-logo="https://www.hdicon.com/wp-content/uploads/2013/12/HKJC_1997.png" group-title="香港馬會",賽日收音機（普通話）
-https://hkjclive-hls.akamaized.net/hls/live/2030947/pth_hls/pth/Audio/cmn/pth.m3u8
-#EXTINF:-1 tvg-id="HKJC" tvg-name="香港馬會賽日收音機" tvg-shift="0" tvg-logo="https://www.hdicon.com/wp-content/uploads/2013/12/HKJC_1997.png" group-title="香港馬會",賽日收音機（英語）
-https://hkjclive-hls.akamaized.net/hls/live/2030947/eng_hls/eng/Audio/eng/eng.m3u8

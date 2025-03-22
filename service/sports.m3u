@@ -1,0 +1,28 @@
+#EXTM3U x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml,https://epg.erw.cc/e.xml,https://live.fanmingming.com/e.xml,https://epg.pw/xmltv/epg_HK.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="SMG上海文廣",五星体育 (Douyin - 1)
+https://pim1.v6.wfhtony.space:11338/douyin/466275560750?stream=hls
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="SMG上海文廣",五星体育 (Douyin - 2)
+https://pim1.v6.wfhtony.space:11338/douyin/140372020398?stream=hls
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="SMG上海文廣",五星体育 (Bilibili)
+https://pim1.v6.wfhtony.space:11338/bilibili/22174801?platform=hls&line=first&quality=4
+
+
+#EXTINF:-1 tvg-id="JRA" tvg-name="JRA" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="JRA日本中央競馬会",JRAレースライブ (official - Auto)
+https://eqlive-eqj128pfeu-live.eq-hls.wselive.stream.ne.jp/abr/wlives-masterplaylist/7o9m416gor08x6ed/master.m3u8
+
+#EXTINF:-1 tvg-id="JRA" tvg-name="JRA" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="JRA日本中央競馬会",JRAレースライブ (official - 360p)
+https://ssl-cache.stream.ne.jp/www50/eqj128pfeu/jmc_pub/liveplaylist/v2/1_standard.m3u8
+
+
+#EXTINF:-1 tvg-id="TVB J2" tvg-name="TVB J2" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="香港馬會",TVB Plus (myTV - DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
+https://tvbanywhere.wfhtony1996.workers.dev/B
+#EXTINF:-1 tvg-id="HKJC" tvg-name="香港馬會賽日收音機" tvg-shift="0" tvg-logo="https://www.hdicon.com/wp-content/uploads/2013/12/HKJC_1997.png" group-title="香港馬會",賽日收音機（official - 粵語）
+https://hkjclive-hls.akamaized.net/hls/live/2030947/can_hls/can/Audio/yue/can.m3u8
+#EXTINF:-1 tvg-id="HKJC" tvg-name="香港馬會賽日收音機" tvg-shift="0" tvg-logo="https://www.hdicon.com/wp-content/uploads/2013/12/HKJC_1997.png" group-title="香港馬會",賽日收音機（official - 普通話）
+https://hkjclive-hls.akamaized.net/hls/live/2030947/pth_hls/pth/Audio/cmn/pth.m3u8
+#EXTINF:-1 tvg-id="HKJC" tvg-name="香港馬會賽日收音機" tvg-shift="0" tvg-logo="https://www.hdicon.com/wp-content/uploads/2013/12/HKJC_1997.png" group-title="香港馬會",賽日收音機（official - 英語）
+https://hkjclive-hls.akamaized.net/hls/live/2030947/eng_hls/eng/Audio/eng/eng.m3u8
