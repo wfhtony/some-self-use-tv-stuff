@@ -18,6 +18,9 @@ https://ssl-cache.stream.ne.jp/www50/eqj128pfeu/jmc_pub/liveplaylist/v2/1_standa
 #EXTINF:-1 tvg-id="NAR-Saga" tvg-name="NAR-Saga" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/saga.png" group-title="NAR地方競馬全国協会",佐賀 (official - Auto)
 https://movie61auhrn2-3.keiba-racing.jp/keiba/nar/live/saga_https.m3u8
 
+#EXTINF:-1 tvg-id="NAR-Saga" tvg-name="NAR-Saga" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/saga.png" group-title="NAR地方競馬全国協会",佐賀 (official - 1200kbps)
+https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/saga4.m3u8
+
 #EXTINF:-1 tvg-id="NAR-Saga" tvg-name="NAR-Saga" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/saga.png" group-title="NAR地方競馬全国協会",佐賀 (official - 2000kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/saga5.m3u8
 
