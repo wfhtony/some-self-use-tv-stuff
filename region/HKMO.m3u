@@ -118,10 +118,12 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPla
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/viutv.png" group-title="ViuTV 香港電視娛樂",ViuTV (ipv4)
+https://cdn5.163189.xyz/live/viu/stream.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-https://z88.ubtvfans.com/live/rx1/2334/fba30fd4af785fb0451bcccfdf475e79/index.m3u8
-https://z88.ubtvfans.com/live/rx1/72/45683d738c0c0f8cc659cb4126f5dad3/index.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 #EXTINF:-1 tvg-id="ViuTV Six" tvg-name="ViuTV Six" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/viutv6.png" group-title="ViuTV 香港電視娛樂",ViuTVsix (ipv4)
+http://27.46.95.90:800/hls/1852451724/index.m3u8
 https://z88.ubtvfans.com/live/rx1/176/32178352c5da72e5fd918a653c6fc9ae/index.m3u8
 
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-shift="-8" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/HOY_TV_%282%29.png/revision/latest/?cb=20231221130409&path-prefix=vi" group-title="HOY 有線寬頻開電視",HOY TV (official)
