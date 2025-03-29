@@ -25,8 +25,8 @@
 | --- | --- |
 |[YangG-1989](https://yang-1989.eu.org/) | 由 YangG-1989 整理的IPTV源。|
 |[luongz/iptv-jp](https://github.com/luongz/iptv-jp) | 由 luongz 整理的日本IPTV（IPV4）源 + epg節目表/列表（觀看需海外IP）。|
-|~~[stream-link.org](https://www.stream-link.org/)~~ | ~~香港網民整理的IPTV源（觀看需**非**大陸、臺灣、及cloudflare ip段），範圍主要是香港（硬字幕+粵語音軌）和臺灣的電視台。~~ 3/26被一鍋端了。|
-|~~[HKDVB](https://live.hkdvb.com/)~~ | ~~香港網民整理的IPTV源，範圍主要是香港的電視台（硬字幕+粵語音軌）。~~3/26被一鍋端了。~~所以不要把付費版權資源整進去啊...~~|
+|~~[stream-link.org](https://www.stream-link.org/)~~ | ~~香港網民整理的IPTV源（觀看需**非**大陸、臺灣、及cloudflare ip段），範圍主要是香港（硬字幕+粵語音軌）和臺灣的電視台。~~ [3/26被一鍋端了。](https://www.bilibili.com/video/BV1XHoqYkEwA/)|
+|~~[HKDVB](https://live.hkdvb.com/)~~ | ~~香港網民整理的IPTV源，範圍主要是香港的電視台（硬字幕+粵語音軌）。~~ [3/26被一鍋端了。](https://www.bilibili.com/video/BV1XHoqYkEwA/) ~~所以不要把付費版權資源整進去啊...~~|
 |[mjh.nz](https://i.mjh.nz/) | 由 [matthuisman](https://github.com/matthuisman) 整理的IPTV源+epg節目表，範圍主要是英語國家的電視台+輪播頻道。 |
 |[pixman](https://pixman.io/topics/17) | 一個[四季線上4gTV](https://www.4gtv.tv)的反代程序。 |
 
