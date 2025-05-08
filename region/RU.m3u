@@ -1,11 +1,23 @@
-#EXTM3U x-tvg-url="https://iptvx.one/EPG,https://epg.pw/xmltv/epg_RU.xml,https://epg.pw/xmltv/epg_HK.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://iptvx.one/EPG,https://epg.pw/xmltv/epg_RU.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="rt-news" tvg-name="rt-news" tvg-logo="https://live.fanmingming.com/tv/RTNews.png" group-title="Russia Today",RT News (official)
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="rtd-en" tvg-name="rtd-en" tvg-logo="https://live.fanmingming.com/tv/RTDoc.png" group-title="Russia Today",RT Documentary (official)
+#EXTINF:-1 tvg-id="rtd-en" tvg-name="rtd-en" tvg-logo="https://live.fanmingming.com/tv/RTDoc.png" group-title="Russia Today",RT Doc (official)
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="rtd-ru" tvg-name="rtd-en" tvg-logo="https://live.fanmingming.com/tv/RTDoc.png" group-title="Russia Today",RT Д (official)
+#EXTINF:-1 tvg-id="rtd-ru" tvg-name="rtd-ru" tvg-logo="https://live.fanmingming.com/tv/RTDoc.png" group-title="Russia Today",RT Д (official)
+https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
+
+#EXTINF:-1 tvg-id="RT Arabic" tvg-name="RT Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png" group-title="Russia Today",RT Arabic (official)
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-id="RT en Français" tvg-name="RT en Français" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png" group-title="Russia Today",RT en Français (official)
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+#EXTINF:-1 tvg-id="RT en Español" tvg-name="RT en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png" group-title="Russia Today",RT en Español (official)
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="RT DE" tvg-name="RT DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RT_DE_Logo_2021.svg/2560px-RT_DE_Logo_2021.svg.png" group-title="Russia Today",RT DE (official)
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 
 #EXTINF:-1 tvg-id="pervy" tvg-name="pervy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.png" group-title="Russia Today",Первый канал HD (official)
 https://edge2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1714725935
@@ -14,13 +26,13 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="rossia-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/800px-Rossiya-24_Logo.svg.png" group-title="Russia Today",Россия-24 HD (official)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-#EXTINF:-1 tvg-id="Russia-K" tvg-name="Россия K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/2560px-Russia-Cultura.svg.png" group-title="Russia Today",Россия-K HD (official)
+#EXTINF:-1 tvg-id="kultura" tvg-name="kultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/2560px-Russia-Cultura.svg.png" group-title="Russia Today",Россия-K HD (official)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="volgograd-24" tvg-name="volgograd-24" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/67/%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_24_(%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4).jpeg/revision/latest/?cb=20201117073909&path-prefix=ru" group-title="Russia Today",Волгоград-24 HD (official)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/4_7245e3cd/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="match-tv" tvg-name="match-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png" group-title="Russia Today",Матч ТВ (official)
-https://m3u8.video.matchtv.ru/media/playlist/ch_3a3b7f79f742afba1514c1556f1c4feb/17_86669241/1080/d54d9f6cf2b31d5f6c4acae7ecd869a9/1715526600.m3u8
+https://m3u8.video.matchtv.ru/media/playlist/ch_c4b3d27c4e064ad91766b4e930c91f60/17_86669241/1080p50fps/eaffc68967f31b03e1bae0a2fb659434/1746753000.m3u8
 
 #EXTINF:-1 tvg-id="ntv" tvg-name="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Russia Today",НТВ HD (official)
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
@@ -35,7 +47,8 @@ https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-pl7" tvg-name="ntv-pl7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Russia Today",НТВ (+7 official - SD)
 https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OTP" tvg-name="OTP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/OTR_2013_logo.svg/312px-OTR_2013_logo.svg.png" group-title="Russia Today",Общественное телевидение России (ipv4 - SD)
+
+#EXTINF:-1 tvg-id="otr" tvg-name="otr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/OTR_2013_logo.svg/312px-OTR_2013_logo.svg.png" group-title="Russia Today",Общественное телевидение России (ipv4 - SD)
 http://flu.ttk.mx:9090/OTR/index.m3u8?token=orh6o
 https://streaming.televizor-24-tochka.ru/live/12.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
