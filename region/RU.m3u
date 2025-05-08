@@ -86,7 +86,6 @@ https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-pl7" tvg-name="ntv-pl7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Газпром-медиа",НТВ (+7 official - SD)
 https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-name="5kanal-ru" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/6f/%D0%9F%D1%8F%D1%82%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_8.svg/revision/latest/scale-to-width-down/1000?cb=20231128062057&path-prefix=ru" group-title="Национальная Медиа Группа",Пятый канал (official - DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
