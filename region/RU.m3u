@@ -10,6 +10,81 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 
+#EXTINF:-1 tvg-id="pervy" tvg-name="pervy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.png" group-title="Российская телевизионная и радиовещательная сеть",Первый канал HD (official)
+https://1tv-live-vitrina.cdn.gblnet.ru/dashp-livef1/1tv/index.mpd?token=v2.FZ0qK3dAhnOQdu2vV10xvuw4wa38qUIrFZadXT7oGag.3kyzWAUwspO5HOf03qkrGhuvBNYReAziv42dswkG1C4.1747322106.dc95ba089429c38af2bbc82f5fe63690
+https://edge2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1714725935
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
+#EXTINF:-1 tvg-id="otr" tvg-name="otr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/OTR_2013_logo.svg/312px-OTR_2013_logo.svg.png" group-title="Общественное телевидение России",Общественное телевидение России (official)
+https://bl.webcaster.pro/media/start/free_a75e9c83de8e2c3df960b8a48f38fba6/5_1585122629/2884a2b88f1de25fa656f0839268e92e/1746755755.m3u8
+
+#EXTINF:-1 tvg-id="rossia1" tvg-name="rossia1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rossiya-1_Logo.svg/204px-Rossiya-1_Logo.svg.png" group-title="VGTRK",Россия 1 HD (official)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="rossia-24" tvg-name="rossia-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/800px-Rossiya-24_Logo.svg.png" group-title="VGTRK",Россия 24 HD (official)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="kultura" tvg-name="kultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/2560px-Russia-Cultura.svg.png" group-title="VGTRK",Россия K HD (official)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-id="karusel" tvg-name="karusel" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="VGTRK",Карусель (official)
+https://edge02p.mediavitrina.ru/dashp-livef8/karusel/index.mpd?token=v2.a3-Z5SHp3OrlTT83TVrmsn6GXyeFnLd5istH7_8Ypao.0ck5aT9EJWZq4S_SsMDp_odseCdhMi4SN9bekdqnmyA.1747321674.07e0a4dee527d5e4426f43d057ad0be8
+
+#EXTINF:-1 tvg-id="volgograd-24" tvg-name="volgograd-24" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/67/%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_24_(%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4).jpeg/revision/latest/?cb=20201117073909&path-prefix=ru" group-title="VGTRK",Волгоград 24 (official)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/index.m3u8
+#EXTINF:-1 tvg-id="kavkaz24" tvg-name="kavkaz24" tvg-logo="https://iptvx.one/picons/kavkaz24.png" group-title="VGTRK",Кавказ 24 (official)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+#EXTINF:-1 tvg-id="zapad-24" tvg-name="zapad-24" tvg-logo="https://iptvx.one/picons/zapad-24.png" group-title="VGTRK",Запад 24 (official)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
+#EXTINF:-1 tvg-id="samara24" tvg-name="samara24" tvg-logo="https://iptvx.one/picons/samara24.png" group-title="VGTRK",Самара 24 (official)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
+#EXTINF:-1 tvg-id="vostok-24" tvg-name="vostok-24" tvg-logo="https://iptvx.one/picons/vostok-24.png" group-title="VGTRK",Восток 24 (official)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
+#EXTINF:-1 tvg-id="sibir24" tvg-name="sibir24" tvg-logo="https://iptvx.one/picons/sibir24.png" group-title="VGTRK",Сибирь 24 (official)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
+#EXTINF:-1 tvg-id="sibir24" tvg-name="sibir24" tvg-logo="https://tc1.wfhtony.space/images/2025/05/08/6055e94ff139d04ad633d10ba714246c.png" group-title="VGTRK",Сибирь 24 Таймыр (official)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
+#EXTINF:-1 tvg-id="bashkortostan24" tvg-name="bashkortostan24" tvg-logo="https://iptvx.one/picons/bashkortostan24.png" group-title="VGTRK",Башкортостан 24 (official)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
+#EXTINF:-1 tvg-id="nn-24" tvg-name="nn-24" tvg-logo="https://iptvx.one/picons/nn-24.png" group-title="VGTRK",Нижний Новгород 24 (official)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
+#EXTINF:-1 tvg-id="ural24" tvg-name="ural24" tvg-logo="https://iptvx.one/picons/ural24.png" group-title="VGTRK",Урал 24 (official)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
+#EXTINF:-1 tvg-id="arktika-24" tvg-name="arktika-24" tvg-logo="https://iptvx.one/picons/arktika-24.png" group-title="VGTRK",Арктика 24 (official)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="match-tv" tvg-name="match-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png" group-title="Газпром-медиа",Матч ТВ (official)
+https://m3u8.video.matchtv.ru/media/playlist/ch_c4b3d27c4e064ad91766b4e930c91f60/17_86669241/1080p50fps/eaffc68967f31b03e1bae0a2fb659434/1746753000.m3u8
+https://gpm-matchtv-live-vitrina.cdn.gblnet.ru/dashp-livef1/matchtv/index.mpd?token=v2.Ka19WvCQWFqUoGMyUnC5mq-RD7UgOnYUiIquH4koB1M.1uwhs-j0yUi2wIvpifTqjB4oKDv65fefwiQ5CvibqtE.1747322059.4055f1b771eeac9ab7c2e03d28a8ea79
+
+#EXTINF:-1 tvg-id="ntv" tvg-name="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Газпром-медиа",НТВ HD (official)
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-name="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Газпром-медиа",НТВ HD (+0 official)
+https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv-pl1" tvg-name="ntv-pl1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Газпром-медиа",НТВ (+1 official - SD)
+https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv-pl2" tvg-name="ntv-pl2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Газпром-медиа",НТВ (+2 official - SD)
+https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv-pl4" tvg-name="ntv-pl4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Газпром-медиа",НТВ (+4 official - SD)
+https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv-pl7" tvg-name="ntv-pl7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Газпром-медиа",НТВ (+7 official - SD)
+https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="s1-surgut" tvg-name="s1-surgut" tvg-logo="https://iptvx.one/picons/s1-surgut.png" group-title="СургутИнформТВ",С1 Сургут (official)
+https://sitv.ru/vgtrk/stv.m3u8
+
+#EXTINF:-1 tvg-id="pervy-yaroslavsky" tvg-name="pervy-yaroslavsky" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/8a/%D0%AF%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%28%D1%81_28.03-04.2025%29_%D1%8D%D1%84%D0%B8%D1%80.png/revision/latest/scale-to-width-down/1000?cb=20250329133824&path-prefix=ru" group-title="ЯПервый ТЕЛЕКАНАЛ",ЯПервый (official)
+https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-id="tvkrasnodar" tvg-name="tvkrasnodar" tvg-logo="https://tc1.wfhtony.space/images/2025/05/08/6b2bd499deaeec12e54356d36a93c08d.png" group-title="Краснодар",Телеканал Краснодар (official)
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="otv-primorie" tvg-name="otv-primorie" tvg-logo="https://iptvx.one/picons/otv-primorie.png" group-title="Общественное телевидение России",ОТВ Приморье (official)
+https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ugratv" tvg-name="ugratv" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/02/%D0%A2%D0%B5%D0%BB%D0%B5%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F_%D0%AE%D0%B3%D1%80%D0%B0_%28%D0%BC%D0%B8%D0%BD%D0%B8%29.svg/revision/latest?cb=20200722002602&path-prefix=ru" group-title="Общественное телевидение России",ЮГРА (official)
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="RT Arabic" tvg-name="RT Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png" group-title="Russia Today",RT Arabic (official)
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-id="RT en Français" tvg-name="RT en Français" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png" group-title="Russia Today",RT en Français (official)
@@ -18,40 +93,3 @@ https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="RT DE" tvg-name="RT DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RT_DE_Logo_2021.svg/2560px-RT_DE_Logo_2021.svg.png" group-title="Russia Today",RT DE (official)
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
-
-#EXTINF:-1 tvg-id="pervy" tvg-name="pervy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.png" group-title="Russia Today",Первый канал HD (official)
-https://edge2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1714725935
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 tvg-id="rossia1" tvg-name="rossia1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rossiya-1_Logo.svg/204px-Rossiya-1_Logo.svg.png" group-title="Russia Today",Россия-1 HD (official)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id="rossia-24" tvg-name="rossia-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/800px-Rossiya-24_Logo.svg.png" group-title="Russia Today",Россия-24 HD (official)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-#EXTINF:-1 tvg-id="kultura" tvg-name="kultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/2560px-Russia-Cultura.svg.png" group-title="Russia Today",Россия-K HD (official)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 tvg-id="volgograd-24" tvg-name="volgograd-24" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/67/%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_24_(%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4).jpeg/revision/latest/?cb=20201117073909&path-prefix=ru" group-title="Russia Today",Волгоград-24 HD (official)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/4_7245e3cd/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="match-tv" tvg-name="match-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png" group-title="Russia Today",Матч ТВ (official)
-https://m3u8.video.matchtv.ru/media/playlist/ch_c4b3d27c4e064ad91766b4e930c91f60/17_86669241/1080p50fps/eaffc68967f31b03e1bae0a2fb659434/1746753000.m3u8
-
-#EXTINF:-1 tvg-id="ntv" tvg-name="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Russia Today",НТВ HD (official)
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-name="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Russia Today",НТВ HD (+0 official)
-https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv-pl1" tvg-name="ntv-pl1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Russia Today",НТВ (+1 official - SD)
-https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv-pl2" tvg-name="ntv-pl2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Russia Today",НТВ (+2 official - SD)
-https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv-pl4" tvg-name="ntv-pl4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Russia Today",НТВ (+4 official - SD)
-https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv-pl7" tvg-name="ntv-pl7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Russia Today",НТВ (+7 official - SD)
-https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="otr" tvg-name="otr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/OTR_2013_logo.svg/312px-OTR_2013_logo.svg.png" group-title="Russia Today",Общественное телевидение России (ipv4 - SD)
-http://flu.ttk.mx:9090/OTR/index.m3u8?token=orh6o
-https://streaming.televizor-24-tochka.ru/live/12.m3u8
-http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
-
-#EXTINF:-1 tvg-id="pervy-yaroslavsky" tvg-name="pervy-yaroslavsky" tvg-logo="https://1yar.tv/photos/logo_1_yar_obl.png" group-title="Russia Today",Первый Ярославский (official)
-https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
