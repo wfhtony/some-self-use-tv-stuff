@@ -19,14 +19,13 @@ https://edge01p.mediavitrina.ru/dashp-livef1/1tv/index.mpd?token=v2.o8sCVsqaNfRT
 https://edge2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1714725935
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
-#EXTINF:-1 tvg-id="otr" tvg-name="otr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/OTR_2013_logo.svg/312px-OTR_2013_logo.svg.png" group-title="Общественное телевидение России",Общественное телевидение России (official)
-https://bl.webcaster.pro/media/start/free_a75e9c83de8e2c3df960b8a48f38fba6/5_1585122629/2884a2b88f1de25fa656f0839268e92e/1746755755.m3u8
-
 #EXTINF:-1 tvg-id="otr" tvg-name="otr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/OTR_2013_logo.svg/312px-OTR_2013_logo.svg.png" group-title="Общественное телевидение России",Общественное телевидение России (official - DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=35b72d23f4be2b6351c62309205c419e:4a38d063f8b04c2e3029630dfda6c19e
 https://user97890.clients-cdnnow.ru/dashp-livef1/otr_0/index.mpd?token=v2.Owh6AAHHIfreIMwG5NF8KR-Tr82TmB9R9goJaojEH9o.6D29m5Rfg0KaeBk3OoJ44uGwQlV_nzU6Zs8a9hKka8w.1747323247.9c41a8c17f7a829bfdf688473f135692
+#EXTINF:-1 tvg-id="otr" tvg-name="otr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/OTR_2013_logo.svg/312px-OTR_2013_logo.svg.png" group-title="Общественное телевидение России",Общественное телевидение России (official)
+https://bl.webcaster.pro/media/start/free_a75e9c83de8e2c3df960b8a48f38fba6/5_1585122629/2884a2b88f1de25fa656f0839268e92e/1746755755.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" tvg-name="rossia1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rossiya-1_Logo.svg/204px-Rossiya-1_Logo.svg.png" group-title="VGTRK",Россия 1 HD (official)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
@@ -38,8 +37,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="karusel" tvg-name="karusel" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="VGTRK",Карусель (official - DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4458cf5a9b7c1e60f6dae2b8862c4f5:ef0235dd1750b382da591a5d8a97aa66
-https://edge02p.mediavitrina.ru/dashp-livef8/karusel/index.mpd?token=v2.a3-Z5SHp3OrlTT83TVrmsn6GXyeFnLd5istH7_8Ypao.0ck5aT9EJWZq4S_SsMDp_odseCdhMi4SN9bekdqnmyA.1747321674.07e0a4dee527d5e4426f43d057ad0be8
+#KODIPROP:inputstream.adaptive.license_key=e9f9c131eaf7ead1272f42b5c8090a77:dfeead17c8c1a8c769f02a921f1a5588
+https://edge01p.mediavitrina.ru/dashp-livef8/karusel/index.mpd?token=v2.KSVT9CsHwpPrjZKTrLR1FA0hoDRam-abIagP8sySAgg.DriFJrrXTr-7U4hJenE1SMbqdUB7Cm-mgWMQTdzo3Kw.1747325015.68e81c95bbe3475c6e6bc3fb9d9a6f45
 
 #EXTINF:-1 tvg-id="volgograd-24" tvg-name="volgograd-24" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/67/%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_24_(%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4).jpeg/revision/latest/?cb=20201117073909&path-prefix=ru" group-title="VGTRK",Волгоград 24 (official)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/index.m3u8
@@ -64,14 +63,19 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
 #EXTINF:-1 tvg-id="arktika-24" tvg-name="arktika-24" tvg-logo="https://iptvx.one/picons/arktika-24.png" group-title="VGTRK",Арктика 24 (official)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 
-#EXTINF:-1 tvg-id="match-tv" tvg-name="match-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png" group-title="Газпром-медиа",Матч ТВ (official)
-https://m3u8.video.matchtv.ru/media/playlist/ch_c4b3d27c4e064ad91766b4e930c91f60/17_86669241/1080p50fps/eaffc68967f31b03e1bae0a2fb659434/1746753000.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-name="match-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png" group-title="Газпром-медиа",Матч ТВ (official - DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=51d43d8315caa6e48d358a85cce5b034:27745976372feb2d85731e16ee5db622
 https://edge01d.mediavitrina.ru/dashp-livef2/matchtv/index.mpd?token=v2.SaWe5il7vmLDqmrEQIATuB_uWsCPsMWs-0FT7XLBBh4.tNvdNY7OPaZ-fRnXAJlE0cZANutF_Zc_VElV0a8tc4Y.1747324078.9ea12ef647aeabbcc357dff58ed9e9a5
+#EXTINF:-1 tvg-id="match-tv" tvg-name="match-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png" group-title="Газпром-медиа",Матч ТВ (official)
+https://m3u8.video.matchtv.ru/media/playlist/ch_c4b3d27c4e064ad91766b4e930c91f60/17_86669241/1080p50fps/eaffc68967f31b03e1bae0a2fb659434/1746753000.m3u8
 
+#EXTINF:-1 tvg-id="ntv" tvg-name="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Газпром-медиа",НТВ HD (official - DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54beb52825fa2ed518657612b71f5ea1:e1dd8e60e5d117d78f4e08e93118107d
+https://edge01p.mediavitrina.ru/dashp-livef8/ntv_msk/index.mpd?token=v2.p_fOQ7bAlOduZ1VLZeXIvsXEK9N2RTyBIrNBGYInMq8.kzeLXucg5dvHIZEksDvxZy1kr2dq6W-Kxk212VeDhxY.1747324879.f4e95f6d655b72fdabf0b847db573b04
 #EXTINF:-1 tvg-id="ntv" tvg-name="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Газпром-медиа",НТВ HD (official)
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Газпром-медиа",НТВ HD (+0 official)
