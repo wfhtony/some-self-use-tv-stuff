@@ -14,8 +14,20 @@ https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 https://edge2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1714725935
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
+#EXTINF:-1 tvg-id="pervy" tvg-name="pervy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.png" group-title="Российская телевизионная и радиовещательная сеть",Первый канал HD (official - DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e64c3dd736e21fb0a1b4824619c8ad84:56c1ba3ef39d90e43133fbccac15883f
+https://edge01p.mediavitrina.ru/dashp-livef1/1tv/index.mpd?token=v2.o8sCVsqaNfRTdj1hIiu1vPbPeIeWOjoTyCiFYqo-rns.8dpg0yKTiA1AQke61WrMTSlGn9lHl8rjiuwEMc62DWo.1747323436.a3ec5644ac4e871df30ccf7aab4e0b5d
+
 #EXTINF:-1 tvg-id="otr" tvg-name="otr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/OTR_2013_logo.svg/312px-OTR_2013_logo.svg.png" group-title="Общественное телевидение России",Общественное телевидение России (official)
 https://bl.webcaster.pro/media/start/free_a75e9c83de8e2c3df960b8a48f38fba6/5_1585122629/2884a2b88f1de25fa656f0839268e92e/1746755755.m3u8
+
+#EXTINF:-1 tvg-id="otr" tvg-name="otr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/OTR_2013_logo.svg/312px-OTR_2013_logo.svg.png" group-title="Общественное телевидение России",Общественное телевидение России (official - DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=35b72d23f4be2b6351c62309205c419e:4a38d063f8b04c2e3029630dfda6c19e
+https://user97890.clients-cdnnow.ru/dashp-livef1/otr_0/index.mpd?token=v2.Owh6AAHHIfreIMwG5NF8KR-Tr82TmB9R9goJaojEH9o.6D29m5Rfg0KaeBk3OoJ44uGwQlV_nzU6Zs8a9hKka8w.1747323247.9c41a8c17f7a829bfdf688473f135692
 
 #EXTINF:-1 tvg-id="rossia1" tvg-name="rossia1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rossiya-1_Logo.svg/204px-Rossiya-1_Logo.svg.png" group-title="VGTRK",Россия 1 HD (official)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
@@ -55,7 +67,11 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="match-tv" tvg-name="match-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png" group-title="Газпром-медиа",Матч ТВ (official)
 https://m3u8.video.matchtv.ru/media/playlist/ch_c4b3d27c4e064ad91766b4e930c91f60/17_86669241/1080p50fps/eaffc68967f31b03e1bae0a2fb659434/1746753000.m3u8
-https://gpm-matchtv-live-vitrina.cdn.gblnet.ru/dashp-livef1/matchtv/index.mpd?token=v2.Ka19WvCQWFqUoGMyUnC5mq-RD7UgOnYUiIquH4koB1M.1uwhs-j0yUi2wIvpifTqjB4oKDv65fefwiQ5CvibqtE.1747322059.4055f1b771eeac9ab7c2e03d28a8ea79
+#EXTINF:-1 tvg-id="match-tv" tvg-name="match-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png" group-title="Газпром-медиа",Матч ТВ (official - DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51d43d8315caa6e48d358a85cce5b034:27745976372feb2d85731e16ee5db622
+https://edge01d.mediavitrina.ru/dashp-livef2/matchtv/index.mpd?token=v2.SaWe5il7vmLDqmrEQIATuB_uWsCPsMWs-0FT7XLBBh4.tNvdNY7OPaZ-fRnXAJlE0cZANutF_Zc_VElV0a8tc4Y.1747324078.9ea12ef647aeabbcc357dff58ed9e9a5
 
 #EXTINF:-1 tvg-id="ntv" tvg-name="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Газпром-медиа",НТВ HD (official)
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
@@ -71,6 +87,11 @@ https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="5kanal-ru" tvg-name="5kanal-ru" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/6f/%D0%9F%D1%8F%D1%82%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_8.svg/revision/latest/scale-to-width-down/1000?cb=20231128062057&path-prefix=ru" group-title="Национальная Медиа Группа",Пятый канал (official - DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f5f2fb7b2c0d34767a43e94345b0822:0c2327618599137be2a8bd45685a68ce
+https://edge02p.mediavitrina.ru/dashp-livef8/5tv/index.mpd?token=v2.m-szrArNzT0oIyI1Y2wJ_jniv0IAKXIIA-IH0l-3N8I.bRdsPn8IJSOltQtMkKMc7jndmcAdYeWhg7GvnlD_uRU.1747323503.2bcf79675b21cc4aeb800091ae988a28
 
 #EXTINF:-1 tvg-id="s1-surgut" tvg-name="s1-surgut" tvg-logo="https://iptvx.one/picons/s1-surgut.png" group-title="СургутИнформТВ",С1 Сургут (official)
 https://sitv.ru/vgtrk/stv.m3u8
