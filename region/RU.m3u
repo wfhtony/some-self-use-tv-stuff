@@ -9,11 +9,11 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 https://edge2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1714725935
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="Russia-1" tvg-name="Россия" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rossiya-1_Logo.svg/204px-Rossiya-1_Logo.svg.png" group-title="Russia Today",Россия-1 HD (official)
-https://player.smotrim.ru/iframe/stream/live_id/2961
-#EXTINF:-1 tvg-id="Russia-1" tvg-name="Россия" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rossiya-1_Logo.svg/204px-Rossiya-1_Logo.svg.png" group-title="Russia Today",Россия-1 (ipv4 - SD)
-http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
-#EXTINF:-1 tvg-id="Russia-24" tvg-name="Россия 24" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/800px-Rossiya-24_Logo.svg.png" group-title="Russia Today",Россия-24 (ipv4 - SD)
-http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia-24" tvg-name="Россия 24" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/800px-Rossiya-24_Logo.svg.png" group-title="Russia Today",Россия-24 HD (official)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia-K" tvg-name="Россия K" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/2560px-Russia-Cultura.svg.png" group-title="Russia Today",Россия-K HD (official)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="Volgograd-24" tvg-name="Волгоград-24" tvg-shift="-3" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/67/%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_24_(%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4).jpeg/revision/latest/?cb=20201117073909&path-prefix=ru" group-title="Russia Today",Волгоград-24 HD (official)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/4_7245e3cd/chunklist.m3u8
 
