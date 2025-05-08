@@ -10,15 +10,14 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 
-#EXTINF:-1 tvg-id="pervy" tvg-name="pervy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.png" group-title="Российская телевизионная и радиовещательная сеть",Первый канал HD (official)
-https://edge2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1714725935
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-
 #EXTINF:-1 tvg-id="pervy" tvg-name="pervy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.png" group-title="Российская телевизионная и радиовещательная сеть",Первый канал HD (official - DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e64c3dd736e21fb0a1b4824619c8ad84:56c1ba3ef39d90e43133fbccac15883f
 https://edge01p.mediavitrina.ru/dashp-livef1/1tv/index.mpd?token=v2.o8sCVsqaNfRTdj1hIiu1vPbPeIeWOjoTyCiFYqo-rns.8dpg0yKTiA1AQke61WrMTSlGn9lHl8rjiuwEMc62DWo.1747323436.a3ec5644ac4e871df30ccf7aab4e0b5d
+#EXTINF:-1 tvg-id="pervy" tvg-name="pervy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.png" group-title="Российская телевизионная и радиовещательная сеть",Первый канал HD (official)
+https://edge2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1714725935
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
 #EXTINF:-1 tvg-id="otr" tvg-name="otr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/OTR_2013_logo.svg/312px-OTR_2013_logo.svg.png" group-title="Общественное телевидение России",Общественное телевидение России (official)
 https://bl.webcaster.pro/media/start/free_a75e9c83de8e2c3df960b8a48f38fba6/5_1585122629/2884a2b88f1de25fa656f0839268e92e/1746755755.m3u8
