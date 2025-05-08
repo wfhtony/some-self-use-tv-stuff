@@ -25,10 +25,10 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="karusel" tvg-name="karusel" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="VGTRK",Карусель (official - DRM)
-https://edge02p.mediavitrina.ru/dashp-livef8/karusel/index.mpd?token=v2.a3-Z5SHp3OrlTT83TVrmsn6GXyeFnLd5istH7_8Ypao.0ck5aT9EJWZq4S_SsMDp_odseCdhMi4SN9bekdqnmyA.1747321674.07e0a4dee527d5e4426f43d057ad0be8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4458cf5a9b7c1e60f6dae2b8862c4f5:ef0235dd1750b382da591a5d8a97aa66
+https://edge02p.mediavitrina.ru/dashp-livef8/karusel/index.mpd?token=v2.a3-Z5SHp3OrlTT83TVrmsn6GXyeFnLd5istH7_8Ypao.0ck5aT9EJWZq4S_SsMDp_odseCdhMi4SN9bekdqnmyA.1747321674.07e0a4dee527d5e4426f43d057ad0be8
 
 #EXTINF:-1 tvg-id="volgograd-24" tvg-name="volgograd-24" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/67/%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_24_(%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4).jpeg/revision/latest/?cb=20201117073909&path-prefix=ru" group-title="VGTRK",Волгоград 24 (official)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/index.m3u8
