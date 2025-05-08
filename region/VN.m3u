@@ -1,0 +1,24 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_VN.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1 tvg-id="VTV1" tvg-name="VTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/2560px-VTV1_logo_2013_final.svg.png" group-title="Vietnam Television | VTV",VTV-1 (official)
+https://cdn-live.vtv.vn/0mikDPbr5EcQ1I10NPfXBg/1746734429/live/vtv1/master.m3u8
+#EXTINF:-1 tvg-id="VTV2" tvg-name="VTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/2560px-VTV2_logo_2013_final.svg.png" group-title="Vietnam Television | VTV",VTV-2 (official)
+https://cdn-live.vtv.vn/WOFG8eFjsae_5Ti7ieNvIQ/1746734419/live/vtv2/master.m3u8
+#EXTINF:-1 tvg-id="VTV3" tvg-name="VTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/2560px-VTV3_logo_2013_final.svg.png" group-title="Vietnam Television | VTV",VTV-3 (official)
+https://cdn-live.vtv.vn/FIXcHgTGZv1nwcRCKfpetQ/1746734408/live/vtv3/master.m3u8
+#EXTINF:-1 tvg-id="VTV4" tvg-name="VTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/2560px-VTV4_logo_2013_final.svg.png" group-title="Vietnam Television | VTV",VTV-4 (official)
+https://cdn-live.vtv.vn/G_BunCaf7y2CI-CuRcQltA/1746734385/live/vtv4/master.m3u8
+#EXTINF:-1 tvg-id="VTV5" tvg-name="VTV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/2560px-VTV5_logo_2013_final.svg.png" group-title="Vietnam Television | VTV",VTV-5 (official)
+https://cdn-live.vtv.vn/Wb9xfgqlzogW3lU4puKBXQ/1746734375/live/vtv5/master.m3u8
+#EXTINF:-1 tvg-id="VTV5tnb" tvg-name="VTV5tnb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/2560px-Vtv5tnb_logo.svg.png" group-title="Vietnam Television | VTV",VTV5 Tây Nam Bộ (official)
+https://cdn-live.vtv.vn/51EVonYaOjmQbrvIYPsLzA/1746734318/live/vtv5tnb/master.m3u8
+#EXTINF:-1 tvg-id="VTV5tn" tvg-name="VTV5tn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vtv5taynguyen_logo.svg/2560px-Vtv5taynguyen_logo.svg.png" group-title="Vietnam Television | VTV",VTV5 Tây Nguyên (official)
+https://cdn-live.vtv.vn/y6FdLFMAotK4rd_My5Rdjg/1746734304/live/vtv5tn/master.m3u8
+#EXTINF:-1 tvg-id="VTV6" tvg-name="VTV6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Logo_%C4%91%C3%A0i_VTV_C%E1%BA%A7n_Th%C6%A1.svg/2560px-Logo_%C4%91%C3%A0i_VTV_C%E1%BA%A7n_Th%C6%A1.svg.png" group-title="Vietnam Television | VTV",VTV Cần Thơ (official)
+https://cdn-live.vtv.vn/TG3r6YlbqO5cVUNzdS8qMA/1746734439/live/vtv6/master.m3u8
+#EXTINF:-1 tvg-id="VTV7" tvg-name="VTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/2560px-VTV7_logo_2016_final.svg.png" group-title="Vietnam Television | VTV",VTV-7 (official)
+https://cdn-live.vtv.vn/YO-obW3sV9leLW5b6BhAig/1746734365/live/vtv7/master.m3u8
+#EXTINF:-1 tvg-id="VTV8" tvg-name="VTV8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV8_logo_2016_final.svg/2560px-VTV8_logo_2016_final.svg.png" group-title="Vietnam Television | VTV",VTV-8 (official)
+https://cdn-live.vtv.vn/cWHErmE3mvmnQ0QjHGRE5Q/1746734337/live/vtv8/master.m3u8
+#EXTINF:-1 tvg-id="VTV9" tvg-name="VTV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/2560px-VTV9_logo_2013_final.svg.png" group-title="Vietnam Television | VTV",VTV-9 (official)
+https://cdn-live.vtv.vn/zQELcdmtPfnUM6Tnm0bevw/1746734351/live/vtv9/master.m3u8
