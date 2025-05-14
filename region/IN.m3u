@@ -1,0 +1,40 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_IN.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/2560px-NDTV_247.svg.png" group-title="NDTV",NDTV 24x7 (official)
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/2560px-NDTV_247.svg.png" group-title="NDTV",NDTV 24x7 US Edition (official)
+https://web-ndtv24x7-us.akamaized.net/hls/live/2109282/ndtv24x7us/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/2560px-NDTV_247.svg.png" group-title="NDTV",NDTV 24x7 UK Edition (official)
+https://web-ndtv24x7-uk.akamaized.net/hls/live/2109290/ndtv24x7uk/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/NDTV_India_Logo.svg/2560px-NDTV_India_Logo.svg.png" group-title="NDTV",NDTV India (official)
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/NDTV_Profit.svg/2560px-NDTV_Profit.svg.png" group-title="NDTV",NDTV Profit (official)
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tc1.wfhtony.space/images/2025/05/14/c57235eb6bc85fd2808888de67e92aee.png" group-title="NDTV",NDTV Marathi (official)
+https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tc1.wfhtony.space/images/2025/05/14/792579cd45fdec48d28caf7c24d713f6.png" group-title="NDTV",NDTV MP Chhattisgarh (official)
+https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvmpcg/master_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tc1.wfhtony.space/images/2025/05/14/3d4b01fc05af695cb8e6f75456f208b3.png" group-title="NDTV",NDTV Rajasthan (official)
+https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Times_Now_logo.svg/2560px-Times_Now_logo.svg.png" group-title="The Times Group",Times Now (official)
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tc1.wfhtony.space/images/2025/05/14/fce9fb7ca39e9112d39a18165d43baf5.png" group-title="The Times Group",Times Now Navbharat (official)
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/navbharat/navbharat_master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/ET_Now_logo.svg/2560px-ET_Now_logo.svg.png" group-title="The Times Group",ET Now (official)
+https://damso2e2yhynu.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tc1.wfhtony.space/images/2025/05/14/cccea9d680ec098925255ee46c0b8608.png" group-title="The Times Group",ET Now Swadesh (official)
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Mirror_Now.svg/2560px-Mirror_Now.svg.png" group-title="The Times Group",Mirror Now (official)
+https://d179muqh6u5263.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/India_Today_%28TV_channel%29.svg/1904px-India_Today_%28TV_channel%29.svg.png" group-title="TV Today Network",India Today (official)
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Aaj_Tak_logo.svg/2560px-Aaj_Tak_logo.svg.png" group-title="TV Today Network",Aaj Tak (official)
+https://feeds.intoday.in/aajtak/api/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://akm-img-a-in.tosshub.com/lingo/gnt/resources/img/logo.png" group-title="TV Today Network",Good News Today (official)
+https://feeds.intoday.in/gnt/api/master.m3u8
+
+
+
