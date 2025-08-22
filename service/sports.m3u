@@ -1,12 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml,https://epg.pw/xmltv/epg_HK.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="SMG上海文廣",五星体育 (Douyin - 1)
-https://3afo4.s2z.0045493.xyz:54196/douyin/466275560750?stream=hls
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="SMG上海文廣",五星体育 (Douyin - 2)
-https://3afo4.s2z.0045493.xyz:54196/douyin/140372020398?stream=hls
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="SMG上海文廣",五星体育 (Bilibili)
-https://3afo4.s2z.0045493.xyz:54196/bilibili/22174801?platform=hls&line=first&quality=4
-
 
 #EXTINF:-1 tvg-id="JRA" tvg-name="JRAレースライブ" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Japan_Racing_Association_logo.svg/2560px-Japan_Racing_Association_logo.svg.png" group-title="JRA日本中央競馬会",JRAレースライブ (official - Auto)
 https://eqlive-eqj128pfeu-live.eq-hls.wselive.stream.ne.jp/abr/wlives-masterplaylist/7o9m416gor08x6ed/master.m3u8

@@ -106,6 +106,9 @@ https://tvbanywhere.wfhtony1996.workers.dev/P
 #KODIPROP:inputstream.adaptive.license_key=6fa0e47750b5e2fb6adf9b9a0ac431a3:a256220e6c2beaa82f4ca5fba4ec1f95
 https://tvbanywhere.wfhtony1996.workers.dev/CTVE
 
+
+
+
 #EXTINF:-1 tvg-id="港臺電視 31" tvg-name="港臺電視 31" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="RTHK 香港電臺",RTHK31 (official)
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="港臺電視 32" tvg-name="港臺電視 32" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="RTHK 香港電臺",RTHK32 (official)
@@ -116,6 +119,9 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPla
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/85/RTHK_TV_35.svg/300px-RTHK_TV_35.svg.png" group-title="RTHK 香港電臺",RTHK35 (CGTN English) (official)
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/viutv.png" group-title="ViuTV 香港電視娛樂",ViuTV (ipv4)
 https://cdn5.163189.xyz/live/viu/stream.m3u8
@@ -155,19 +161,3 @@ https://live4.tdm.com.mo/tv/ch22.live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e50b18fee7cab76b9f2822e2ade8773a:2e2e8602b6d835ccf10ee56a9a7d91a2
 https://tvbanywhere.wfhtony1996.workers.dev/CC1
-
-#EXTINF:-1 tvg-id="港臺電視 31" tvg-name="港臺電視 31" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="Test",RTHK31 (official - DRM)
-#EXTVLCOPT:http-referrer=https://www.rthk.hk/
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://rthk.live.ott.irdeto.com/licenseServer/widevine/v1/rthk/license?contentId=RTHK_CH31_Pull_DASH_WV_PR
-https://rthktv31-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch31)/master.mpd
-
-#EXTINF:-1 tvg-id="港臺電視 32" tvg-name="港臺電視 32" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="Test",RTHK32 (official - DRM)
-#EXTVLCOPT:http-referrer=https://www.rthk.hk/
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://rthk.live.ott.irdeto.com/licenseServer/widevine/v1/rthk/license?contentId=RTHK_CH32_Pull_DASH_WV_PR
-https://rthktv32-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch32)/master.mpd
