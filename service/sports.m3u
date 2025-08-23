@@ -120,9 +120,9 @@ https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/saga5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
 https://tvbanywhere.wfhtony1996.workers.dev/B
-#EXTINF:-1 tvg-id="HKJC" tvg-name="香港馬會賽日收音機" tvg-shift="0" tvg-logo="https://www.hdicon.com/wp-content/uploads/2013/12/HKJC_1997.png" group-title="香港馬會",賽日收音機（official - 粵語）
+#EXTINF:-1 tvg-id="HKJC-YUE" tvg-name="香港馬會賽日收音機-粵" tvg-shift="0" tvg-logo="https://www.hdicon.com/wp-content/uploads/2013/12/HKJC_1997.png" group-title="香港馬會",賽日收音機（official - 粵語）
 https://hkjclive-hls.akamaized.net/hls/live/2030947/can_hls/can/Audio/yue/can.m3u8
-#EXTINF:-1 tvg-id="HKJC" tvg-name="香港馬會賽日收音機" tvg-shift="0" tvg-logo="https://www.hdicon.com/wp-content/uploads/2013/12/HKJC_1997.png" group-title="香港馬會",賽日收音機（official - 普通話）
+#EXTINF:-1 tvg-id="HKJC-CMN" tvg-name="香港馬會賽日收音機-普" tvg-shift="0" tvg-logo="https://www.hdicon.com/wp-content/uploads/2013/12/HKJC_1997.png" group-title="香港馬會",賽日收音機（official - 普通話）
 https://hkjclive-hls.akamaized.net/hls/live/2030947/pth_hls/pth/Audio/cmn/pth.m3u8
-#EXTINF:-1 tvg-id="HKJC" tvg-name="香港馬會賽日收音機" tvg-shift="0" tvg-logo="https://www.hdicon.com/wp-content/uploads/2013/12/HKJC_1997.png" group-title="香港馬會",賽日收音機（official - 英語）
+#EXTINF:-1 tvg-id="HKJC-ENG" tvg-name="香港馬會賽日收音機-英" tvg-shift="0" tvg-logo="https://www.hdicon.com/wp-content/uploads/2013/12/HKJC_1997.png" group-title="香港馬會",賽日收音機（official - 英語）
 https://hkjclive-hls.akamaized.net/hls/live/2030947/eng_hls/eng/Audio/eng/eng.m3u8
