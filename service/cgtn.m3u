@@ -1,0 +1,14 @@
+#EXTM3U x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml,https://epg.erw.cc/e.xml,https://live.fanmingming.com/e.xml"
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="中国环球电视网 | CGTN (CCTV)",CGTN英语 (official)
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="中国环球电视网 | CGTN (CCTV)",CGTN记录 (official)
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="中国环球电视网 | CGTN (CCTV)",CGTN俄语 (official)
+http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="中国环球电视网 | CGTN (CCTV)",CGTN法语 (official)
+https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="中国环球电视网 | CGTN (CCTV)",CGTN西语 (official)
+http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-shift="0" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="中国环球电视网 | CGTN (CCTV)",CGTN阿语 (official)
+https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8

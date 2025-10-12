@@ -10,7 +10,7 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 
-#EXTINF:-1 tvg-id="pervy" tvg-name="pervy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.png" group-title="Российская телевизионная и радиовещательная сеть",Первый канал HD (official - DRM)
+#EXTINF:-1 tvg-id="pervy" tvg-name="pervy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.png" group-title="Российская телевизионная и радиовещательная сеть",Первый канал HD (official, DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e64c3dd736e21fb0a1b4824619c8ad84:56c1ba3ef39d90e43133fbccac15883f
@@ -19,7 +19,7 @@ https://edge01p.mediavitrina.ru/dashp-livef1/1tv/index.mpd?token=v2.o8sCVsqaNfRT
 https://edge2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1714725935
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
-#EXTINF:-1 tvg-id="otr" tvg-name="otr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/OTR_2013_logo.svg/312px-OTR_2013_logo.svg.png" group-title="Общественное телевидение России",Общественное телевидение России (official - DRM)
+#EXTINF:-1 tvg-id="otr" tvg-name="otr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/OTR_2013_logo.svg/312px-OTR_2013_logo.svg.png" group-title="Общественное телевидение России",Общественное телевидение России (official, DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=35b72d23f4be2b6351c62309205c419e:4a38d063f8b04c2e3029630dfda6c19e
@@ -34,13 +34,13 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-name="kultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/2560px-Russia-Cultura.svg.png" group-title="VGTRK",Россия K HD (official)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 
-#EXTINF:-1 tvg-id="karusel" tvg-name="karusel" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="VGTRK",Карусель (official - SD - DRM)
+#EXTINF:-1 tvg-id="karusel" tvg-name="karusel" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="VGTRK",Карусель (official, SD, DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e9f9c131eaf7ead1272f42b5c8090a77:dfeead17c8c1a8c769f02a921f1a5588
 https://edge01p.mediavitrina.ru/dashp-livef8/karusel/index.mpd?token=v2.KSVT9CsHwpPrjZKTrLR1FA0hoDRam-abIagP8sySAgg.DriFJrrXTr-7U4hJenE1SMbqdUB7Cm-mgWMQTdzo3Kw.1747325015.68e81c95bbe3475c6e6bc3fb9d9a6f45
 
-#EXTINF:-1 tvg-id="match-tv" tvg-name="match-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png" group-title="Газпром-медиа",Матч ТВ (official - DRM)
+#EXTINF:-1 tvg-id="match-tv" tvg-name="match-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png" group-title="Газпром-медиа",Матч ТВ (official, DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=51d43d8315caa6e48d358a85cce5b034:27745976372feb2d85731e16ee5db622
@@ -48,7 +48,7 @@ https://edge01d.mediavitrina.ru/dashp-livef2/matchtv/index.mpd?token=v2.SaWe5il7
 #EXTINF:-1 tvg-id="match-tv" tvg-name="match-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png" group-title="Газпром-медиа",Матч ТВ (official)
 https://m3u8.video.matchtv.ru/media/playlist/ch_c4b3d27c4e064ad91766b4e930c91f60/17_86669241/1080p50fps/eaffc68967f31b03e1bae0a2fb659434/1746753000.m3u8
 
-#EXTINF:-1 tvg-id="ntv" tvg-name="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Газпром-медиа",НТВ HD (official - DRM)
+#EXTINF:-1 tvg-id="ntv" tvg-name="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Газпром-медиа",НТВ HD (official, DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=54beb52825fa2ed518657612b71f5ea1:e1dd8e60e5d117d78f4e08e93118107d
@@ -56,7 +56,7 @@ https://edge01p.mediavitrina.ru/dashp-livef8/ntv_msk/index.mpd?token=v2.p_fOQ7bA
 #EXTINF:-1 tvg-id="ntv" tvg-name="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Газпром-медиа",НТВ HD (official)
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5kanal-ru" tvg-name="5kanal-ru" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/6f/%D0%9F%D1%8F%D1%82%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_8.svg/revision/latest/scale-to-width-down/1000?cb=20231128062057&path-prefix=ru" group-title="Национальная Медиа Группа",Пятый канал (official - DRM)
+#EXTINF:-1 tvg-id="5kanal-ru" tvg-name="5kanal-ru" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/6f/%D0%9F%D1%8F%D1%82%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_8.svg/revision/latest/scale-to-width-down/1000?cb=20231128062057&path-prefix=ru" group-title="Национальная Медиа Группа",Пятый канал (official, DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f5f2fb7b2c0d34767a43e94345b0822:0c2327618599137be2a8bd45685a68ce
@@ -87,13 +87,13 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="ntv" tvg-name="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Газпром-медиа",НТВ HD (+0 official)
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv-pl1" tvg-name="ntv-pl1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Газпром-медиа",НТВ (+1 official - SD)
+#EXTINF:-1 tvg-id="ntv-pl1" tvg-name="ntv-pl1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Газпром-медиа",НТВ (+1 official, SD)
 https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv-pl2" tvg-name="ntv-pl2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Газпром-медиа",НТВ (+2 official - SD)
+#EXTINF:-1 tvg-id="ntv-pl2" tvg-name="ntv-pl2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Газпром-медиа",НТВ (+2 official, SD)
 https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv-pl4" tvg-name="ntv-pl4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Газпром-медиа",НТВ (+4 official - SD)
+#EXTINF:-1 tvg-id="ntv-pl4" tvg-name="ntv-pl4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Газпром-медиа",НТВ (+4 official, SD)
 https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv-pl7" tvg-name="ntv-pl7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Газпром-медиа",НТВ (+7 official - SD)
+#EXTINF:-1 tvg-id="ntv-pl7" tvg-name="ntv-pl7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Газпром-медиа",НТВ (+7 official, SD)
 https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="s1-surgut" tvg-name="s1-surgut" tvg-logo="https://iptvx.one/picons/s1-surgut.png" group-title="СургутИнформТВ",С1 Сургут (official)

@@ -1,128 +1,123 @@
 #EXTM3U x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml,https://epg.pw/xmltv/epg_HK.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 
-#EXTINF:-1 tvg-id="JRA" tvg-name="JRAレースライブ" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Japan_Racing_Association_logo.svg/2560px-Japan_Racing_Association_logo.svg.png" group-title="JRA日本中央競馬会",JRAレースライブ (official - Auto)
+#EXTINF:-1 tvg-id="JRA" tvg-name="JRAレースライブ" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Japan_Racing_Association_logo.svg/2560px-Japan_Racing_Association_logo.svg.png" group-title="JRA日本中央競馬会",JRAレースライブ (official, Auto)
 https://eqlive-eqj128pfeu-live.eq-hls.wselive.stream.ne.jp/abr/wlives-masterplaylist/7o9m416gor08x6ed/master.m3u8
 
-#EXTINF:-1 tvg-id="JRA" tvg-name="JRAレースライブ" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Japan_Racing_Association_logo.svg/2560px-Japan_Racing_Association_logo.svg.png" group-title="JRA日本中央競馬会",JRAレースライブ (official - 360p)
+#EXTINF:-1 tvg-id="JRA" tvg-name="JRAレースライブ" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Japan_Racing_Association_logo.svg/2560px-Japan_Racing_Association_logo.svg.png" group-title="JRA日本中央競馬会",JRAレースライブ (official, 360p)
 https://ssl-cache.stream.ne.jp/www50/eqj128pfeu/jmc_pub/liveplaylist/v2/1_standard.m3u8
 
 ## https://keiba-lv-st.jp/top.html
 
-#EXTINF:-1 tvg-id="NAR-Obihiro" tvg-name="NAR-帯広" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/obihiro.png" group-title="NAR地方競馬全国協会",帯広 (official - Auto)
+#EXTINF:-1 tvg-id="NAR-Obihiro" tvg-name="NAR-帯広" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/obihiro.png" group-title="NAR地方競馬全国協会",帯広 (official, Auto)
 https://movie61auhrn2-3.keiba-racing.jp/keiba/nar/live/obihiro_https.m3u8
-#EXTINF:-1 tvg-id="NAR-Obihiro" tvg-name="NAR-帯広" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/obihiro.png" group-title="NAR地方競馬全国協会",帯広 (official - 1200kbps)
+#EXTINF:-1 tvg-id="NAR-Obihiro" tvg-name="NAR-帯広" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/obihiro.png" group-title="NAR地方競馬全国協会",帯広 (official, 1200kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/obihiro4.m3u8
-#EXTINF:-1 tvg-id="NAR-Obihiro" tvg-name="NAR-帯広" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/obihiro.png" group-title="NAR地方競馬全国協会",帯広 (official - 2000kbps)
+#EXTINF:-1 tvg-id="NAR-Obihiro" tvg-name="NAR-帯広" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/obihiro.png" group-title="NAR地方競馬全国協会",帯広 (official, 2000kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/obihiro5.m3u8
 
-#EXTINF:-1 tvg-id="NAR-Monbetsu" tvg-name="NAR-門別" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/monbetsu.png" group-title="NAR地方競馬全国協会",門別 (official - Auto)
+#EXTINF:-1 tvg-id="NAR-Monbetsu" tvg-name="NAR-門別" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/monbetsu.png" group-title="NAR地方競馬全国協会",門別 (official, Auto)
 https://movie61auhrn2-3.keiba-racing.jp/keiba/nar/live/monbetsu_https.m3u8
-#EXTINF:-1 tvg-id="NAR-Monbetsu" tvg-name="NAR-門別" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/monbetsu.png" group-title="NAR地方競馬全国協会",門別 (official - 1200kbps)
+#EXTINF:-1 tvg-id="NAR-Monbetsu" tvg-name="NAR-門別" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/monbetsu.png" group-title="NAR地方競馬全国協会",門別 (official, 1200kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/monbetsu4.m3u8
-#EXTINF:-1 tvg-id="NAR-Monbetsu" tvg-name="NAR-門別" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/monbetsu.png" group-title="NAR地方競馬全国協会",門別 (official - 2000kbps)
+#EXTINF:-1 tvg-id="NAR-Monbetsu" tvg-name="NAR-門別" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/monbetsu.png" group-title="NAR地方競馬全国協会",門別 (official, 2000kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/monbetsu5.m3u8
 
-#EXTINF:-1 tvg-id="NAR-Morioka" tvg-name="NAR-盛岡" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/morioka.png" group-title="NAR地方競馬全国協会",盛岡 (official - Auto)
+#EXTINF:-1 tvg-id="NAR-Morioka" tvg-name="NAR-盛岡" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/morioka.png" group-title="NAR地方競馬全国協会",盛岡 (official, Auto)
 https://movie61auhrn2-3.keiba-racing.jp/keiba/nar/live/morioka_https.m3u8
-#EXTINF:-1 tvg-id="NAR-Morioka" tvg-name="NAR-盛岡" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/morioka.png" group-title="NAR地方競馬全国協会",盛岡 (official - 1200kbps)
+#EXTINF:-1 tvg-id="NAR-Morioka" tvg-name="NAR-盛岡" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/morioka.png" group-title="NAR地方競馬全国協会",盛岡 (official, 1200kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/morioka4.m3u8
-#EXTINF:-1 tvg-id="NAR-Morioka" tvg-name="NAR-盛岡" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/morioka.png" group-title="NAR地方競馬全国協会",盛岡 (official - 2000kbps)
+#EXTINF:-1 tvg-id="NAR-Morioka" tvg-name="NAR-盛岡" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/morioka.png" group-title="NAR地方競馬全国協会",盛岡 (official, 2000kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/morioka5.m3u8
 
-#EXTINF:-1 tvg-id="NAR-Mizusawa" tvg-name="NAR-水沢" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/mizusawa.png" group-title="NAR地方競馬全国協会",水沢(official - Auto)
+#EXTINF:-1 tvg-id="NAR-Mizusawa" tvg-name="NAR-水沢" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/mizusawa.png" group-title="NAR地方競馬全国協会",水沢(official, Auto)
 https://movie61auhrn2-3.keiba-racing.jp/keiba/nar/live/mizusawa_https.m3u8
-#EXTINF:-1 tvg-id="NAR-Mizusawa" tvg-name="NAR-水沢" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/mizusawa.png" group-title="NAR地方競馬全国協会",水沢 (official - 1200kbps)
+#EXTINF:-1 tvg-id="NAR-Mizusawa" tvg-name="NAR-水沢" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/mizusawa.png" group-title="NAR地方競馬全国協会",水沢 (official, 1200kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/mizusawa4.m3u8
-#EXTINF:-1 tvg-id="NAR-Mizusawa" tvg-name="NAR-水沢" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/mizusawa.png" group-title="NAR地方競馬全国協会",水沢 (official - 2000kbps)
+#EXTINF:-1 tvg-id="NAR-Mizusawa" tvg-name="NAR-水沢" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/mizusawa.png" group-title="NAR地方競馬全国協会",水沢 (official, 2000kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/mizusawa5.m3u8
 
-#EXTINF:-1 tvg-id="NAR-Urawa" tvg-name="NAR-浦和" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/urawa.png" group-title="NAR地方競馬全国協会",浦和 (official - Auto)
+#EXTINF:-1 tvg-id="NAR-Urawa" tvg-name="NAR-浦和" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/urawa.png" group-title="NAR地方競馬全国協会",浦和 (official, Auto)
 https://movie61auhrn2-3.keiba-racing.jp/keiba/nar/live/urawa_https.m3u8
-#EXTINF:-1 tvg-id="NAR-Urawa" tvg-name="NAR-浦和" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/urawa.png" group-title="NAR地方競馬全国協会",浦和 (official - 1200kbps)
+#EXTINF:-1 tvg-id="NAR-Urawa" tvg-name="NAR-浦和" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/urawa.png" group-title="NAR地方競馬全国協会",浦和 (official, 1200kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/urawa4.m3u8
-#EXTINF:-1 tvg-id="NAR-Urawa" tvg-name="NAR-浦和" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/urawa.png" group-title="NAR地方競馬全国協会",浦和 (official - 2000kbps)
+#EXTINF:-1 tvg-id="NAR-Urawa" tvg-name="NAR-浦和" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/urawa.png" group-title="NAR地方競馬全国協会",浦和 (official, 2000kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/urawa5.m3u8
 
-#EXTINF:-1 tvg-id="NAR-Funabashi" tvg-name="NAR-船橋" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/funabashi.png" group-title="NAR地方競馬全国協会",船橋 (official - Auto)
+#EXTINF:-1 tvg-id="NAR-Funabashi" tvg-name="NAR-船橋" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/funabashi.png" group-title="NAR地方競馬全国協会",船橋 (official, Auto)
 https://movie61auhrn2-3.keiba-racing.jp/keiba/nar/live/funabashi_https.m3u8
-#EXTINF:-1 tvg-id="NAR-Funabashi" tvg-name="NAR-船橋" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/funabashi.png" group-title="NAR地方競馬全国協会",船橋 (official - 1200kbps)
+#EXTINF:-1 tvg-id="NAR-Funabashi" tvg-name="NAR-船橋" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/funabashi.png" group-title="NAR地方競馬全国協会",船橋 (official, 1200kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/funabashi4.m3u8
-#EXTINF:-1 tvg-id="NAR-Funabashi" tvg-name="NAR-船橋" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/funabashi.png" group-title="NAR地方競馬全国協会",船橋 (official - 2000kbps)
+#EXTINF:-1 tvg-id="NAR-Funabashi" tvg-name="NAR-船橋" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/funabashi.png" group-title="NAR地方競馬全国協会",船橋 (official, 2000kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/funabashi5.m3u8
 
-#EXTINF:-1 tvg-id="NAR-Ooi" tvg-name="NAR-大井" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/ooi.png" group-title="NAR地方競馬全国協会",大井 (official - Auto)
+#EXTINF:-1 tvg-id="NAR-Ooi" tvg-name="NAR-大井" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/ooi.png" group-title="NAR地方競馬全国協会",大井 (official, Auto)
 https://movie61auhrn2-3.keiba-racing.jp/keiba/nar/live/ooi_https.m3u8
-#EXTINF:-1 tvg-id="NAR-Ooi" tvg-name="NAR-大井" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/ooi.png" group-title="NAR地方競馬全国協会",大井 (official - 1200kbps)
+#EXTINF:-1 tvg-id="NAR-Ooi" tvg-name="NAR-大井" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/ooi.png" group-title="NAR地方競馬全国協会",大井 (official, 1200kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/ooi4.m3u8
-#EXTINF:-1 tvg-id="NAR-Ooi" tvg-name="NAR-大井" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/ooi.png" group-title="NAR地方競馬全国協会",大井 (official - 2000kbps)
+#EXTINF:-1 tvg-id="NAR-Ooi" tvg-name="NAR-大井" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/ooi.png" group-title="NAR地方競馬全国協会",大井 (official, 2000kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/ooi5.m3u8
 
-#EXTINF:-1 tvg-id="NAR-Kawasaki" tvg-name="NAR-川崎" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kawasaki.png" group-title="NAR地方競馬全国協会",川崎 (official - Auto)
+#EXTINF:-1 tvg-id="NAR-Kawasaki" tvg-name="NAR-川崎" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kawasaki.png" group-title="NAR地方競馬全国協会",川崎 (official, Auto)
 https://movie61auhrn2-3.keiba-racing.jp/keiba/nar/live/kawasaki_https.m3u8
-#EXTINF:-1 tvg-id="NAR-Kawasaki" tvg-name="NAR-川崎" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kawasaki.png" group-title="NAR地方競馬全国協会",川崎 (official - 1200kbps)
+#EXTINF:-1 tvg-id="NAR-Kawasaki" tvg-name="NAR-川崎" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kawasaki.png" group-title="NAR地方競馬全国協会",川崎 (official, 1200kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kawasaki4.m3u8
-#EXTINF:-1 tvg-id="NAR-Kawasaki" tvg-name="NAR-川崎" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kawasaki.png" group-title="NAR地方競馬全国協会",川崎 (official - 2000kbps)
+#EXTINF:-1 tvg-id="NAR-Kawasaki" tvg-name="NAR-川崎" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kawasaki.png" group-title="NAR地方競馬全国協会",川崎 (official, 2000kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kawasaki5.m3u8
 
-#EXTINF:-1 tvg-id="NAR-Kanazawa" tvg-name="NAR-金沢" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kanazawa.png" group-title="NAR地方競馬全国協会",金沢 (official - Auto)
+#EXTINF:-1 tvg-id="NAR-Kanazawa" tvg-name="NAR-金沢" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kanazawa.png" group-title="NAR地方競馬全国協会",金沢 (official, Auto)
 https://movie61auhrn2-3.keiba-racing.jp/keiba/nar/live/kanazawa_https.m3u8
-#EXTINF:-1 tvg-id="NAR-Kanazawa" tvg-name="NAR-金沢" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kanazawa.png" group-title="NAR地方競馬全国協会",金沢 (official - 1200kbps)
+#EXTINF:-1 tvg-id="NAR-Kanazawa" tvg-name="NAR-金沢" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kanazawa.png" group-title="NAR地方競馬全国協会",金沢 (official, 1200kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kanazawa4.m3u8
-#EXTINF:-1 tvg-id="NAR-Kanazawa" tvg-name="NAR-金沢" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kanazawa.png" group-title="NAR地方競馬全国協会",金沢 (official - 2000kbps)
+#EXTINF:-1 tvg-id="NAR-Kanazawa" tvg-name="NAR-金沢" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kanazawa.png" group-title="NAR地方競馬全国協会",金沢 (official, 2000kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kanazawa5.m3u8
 
-#EXTINF:-1 tvg-id="NAR-Kasamatsu" tvg-name="NAR-笠松" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kasamatsu.png" group-title="NAR地方競馬全国協会",笠松 (official - Auto)
+#EXTINF:-1 tvg-id="NAR-Kasamatsu" tvg-name="NAR-笠松" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kasamatsu.png" group-title="NAR地方競馬全国協会",笠松 (official, Auto)
 https://movie61auhrn2-3.keiba-racing.jp/keiba/nar/live/kasamatsu_https.m3u8
-#EXTINF:-1 tvg-id="NAR-Kasamatsu" tvg-name="NAR-笠松" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kasamatsu.png" group-title="NAR地方競馬全国協会",笠松 (official - 1200kbps)
+#EXTINF:-1 tvg-id="NAR-Kasamatsu" tvg-name="NAR-笠松" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kasamatsu.png" group-title="NAR地方競馬全国協会",笠松 (official, 1200kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kasamatsu4.m3u8
-#EXTINF:-1 tvg-id="NAR-Kasamatsu" tvg-name="NAR-笠松" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kasamatsu.png" group-title="NAR地方競馬全国協会",笠松 (official - 2000kbps)
+#EXTINF:-1 tvg-id="NAR-Kasamatsu" tvg-name="NAR-笠松" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kasamatsu.png" group-title="NAR地方競馬全国協会",笠松 (official, 2000kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kasamatsu5.m3u8
 
-#EXTINF:-1 tvg-id="NAR-Nagoya" tvg-name="NAR-名古屋" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/nagoya.png" group-title="NAR地方競馬全国協会",名古屋 (official - Auto)
+#EXTINF:-1 tvg-id="NAR-Nagoya" tvg-name="NAR-名古屋" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/nagoya.png" group-title="NAR地方競馬全国協会",名古屋 (official, Auto)
 https://movie61auhrn2-3.keiba-racing.jp/keiba/nar/live/nagoya_https.m3u8
-#EXTINF:-1 tvg-id="NAR-Nagoya" tvg-name="NAR-名古屋" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/nagoya.png" group-title="NAR地方競馬全国協会",名古屋 (official - 1200kbps)
+#EXTINF:-1 tvg-id="NAR-Nagoya" tvg-name="NAR-名古屋" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/nagoya.png" group-title="NAR地方競馬全国協会",名古屋 (official, 1200kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/nagoya4.m3u8
-#EXTINF:-1 tvg-id="NAR-Nagoya" tvg-name="NAR-名古屋" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/nagoya.png" group-title="NAR地方競馬全国協会",名古屋 (official - 2000kbps)
+#EXTINF:-1 tvg-id="NAR-Nagoya" tvg-name="NAR-名古屋" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/nagoya.png" group-title="NAR地方競馬全国協会",名古屋 (official, 2000kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/nagoya5.m3u8
 
-#EXTINF:-1 tvg-id="NAR-Sonoda" tvg-name="NAR-園田" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/sonoda.png" group-title="NAR地方競馬全国協会",園田 (official - Auto)
+#EXTINF:-1 tvg-id="NAR-Sonoda" tvg-name="NAR-園田" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/sonoda.png" group-title="NAR地方競馬全国協会",園田 (official, Auto)
 https://movie61auhrn2-3.keiba-racing.jp/keiba/nar/live/sonoda_https.m3u8
-#EXTINF:-1 tvg-id="NAR-Sonoda" tvg-name="NAR-園田" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/sonoda.png" group-title="NAR地方競馬全国協会",園田 (official - 1200kbps)
+#EXTINF:-1 tvg-id="NAR-Sonoda" tvg-name="NAR-園田" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/sonoda.png" group-title="NAR地方競馬全国協会",園田 (official, 1200kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/sonoda4.m3u8
-#EXTINF:-1 tvg-id="NAR-Sonoda" tvg-name="NAR-園田" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/sonoda.png" group-title="NAR地方競馬全国協会",園田 (official - 2000kbps)
+#EXTINF:-1 tvg-id="NAR-Sonoda" tvg-name="NAR-園田" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/sonoda.png" group-title="NAR地方競馬全国協会",園田 (official, 2000kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/sonoda5.m3u8
 
-#EXTINF:-1 tvg-id="NAR-Himeji" tvg-name="NAR-姫路" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/himeji.png" group-title="NAR地方競馬全国協会",姫路 (official - Auto)
+#EXTINF:-1 tvg-id="NAR-Himeji" tvg-name="NAR-姫路" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/himeji.png" group-title="NAR地方競馬全国協会",姫路 (official, Auto)
 https://movie61auhrn2-3.keiba-racing.jp/keiba/nar/live/himeji_https.m3u8
-#EXTINF:-1 tvg-id="NAR-Himeji" tvg-name="NAR-姫路" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/himeji.png" group-title="NAR地方競馬全国協会",姫路 (official - 1200kbps)
+#EXTINF:-1 tvg-id="NAR-Himeji" tvg-name="NAR-姫路" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/himeji.png" group-title="NAR地方競馬全国協会",姫路 (official, 1200kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/himeji4.m3u8
-#EXTINF:-1 tvg-id="NAR-Himeji" tvg-name="NAR-姫路" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/himeji.png" group-title="NAR地方競馬全国協会",姫路 (official - 2000kbps)
+#EXTINF:-1 tvg-id="NAR-Himeji" tvg-name="NAR-姫路" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/himeji.png" group-title="NAR地方競馬全国協会",姫路 (official, 2000kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/himeji5.m3u8
 
-#EXTINF:-1 tvg-id="NAR-Kouchi" tvg-name="NAR-高知" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kouchi.png" group-title="NAR地方競馬全国協会",高知 (official - Auto)
+#EXTINF:-1 tvg-id="NAR-Kouchi" tvg-name="NAR-高知" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kouchi.png" group-title="NAR地方競馬全国協会",高知 (official, Auto)
 https://movie61auhrn2-3.keiba-racing.jp/keiba/nar/live/kouchi_https.m3u8
-#EXTINF:-1 tvg-id="NAR-Kouchi" tvg-name="NAR-高知" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kouchi.png" group-title="NAR地方競馬全国協会",高知 (official - 1200kbps)
+#EXTINF:-1 tvg-id="NAR-Kouchi" tvg-name="NAR-高知" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kouchi.png" group-title="NAR地方競馬全国協会",高知 (official, 1200kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kouchi4.m3u8
-#EXTINF:-1 tvg-id="NAR-Kouchi" tvg-name="NAR-高知" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kouchi.png" group-title="NAR地方競馬全国協会",高知 (official - 2000kbps)
+#EXTINF:-1 tvg-id="NAR-Kouchi" tvg-name="NAR-高知" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kouchi.png" group-title="NAR地方競馬全国協会",高知 (official, 2000kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kouchi5.m3u8
 
-#EXTINF:-1 tvg-id="NAR-Saga" tvg-name="NAR-佐賀" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/saga.png" group-title="NAR地方競馬全国協会",佐賀 (official - Auto)
+#EXTINF:-1 tvg-id="NAR-Saga" tvg-name="NAR-佐賀" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/saga.png" group-title="NAR地方競馬全国協会",佐賀 (official, Auto)
 https://movie61auhrn2-3.keiba-racing.jp/keiba/nar/live/saga_https.m3u8
-#EXTINF:-1 tvg-id="NAR-Saga" tvg-name="NAR-佐賀" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/saga.png" group-title="NAR地方競馬全国協会",佐賀 (official - 1200kbps)
+#EXTINF:-1 tvg-id="NAR-Saga" tvg-name="NAR-佐賀" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/saga.png" group-title="NAR地方競馬全国協会",佐賀 (official, 1200kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/saga4.m3u8
-#EXTINF:-1 tvg-id="NAR-Saga" tvg-name="NAR-佐賀" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/saga.png" group-title="NAR地方競馬全国協会",佐賀 (official - 2000kbps)
+#EXTINF:-1 tvg-id="NAR-Saga" tvg-name="NAR-佐賀" tvg-shift="0" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/saga.png" group-title="NAR地方競馬全国協会",佐賀 (official, 2000kbps)
 https://movie61auhrn2-3.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/saga5.m3u8
 
 
-#EXTINF:-1 tvg-id="TVB J2" tvg-name="TVB J2" tvg-shift="-8" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="香港馬會",TVB Plus (myTV - DRM)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
-https://tvbanywhere.wfhtony1996.workers.dev/B
-#EXTINF:-1 tvg-id="HKJC-YUE" tvg-name="香港馬會賽日收音機-粵" tvg-shift="0" tvg-logo="https://www.hdicon.com/wp-content/uploads/2013/12/HKJC_1997.png" group-title="香港馬會",賽日收音機（official - 粵語）
+#EXTINF:-1 tvg-id="HKJC-YUE" tvg-name="香港馬會賽日收音機-粵" tvg-shift="0" tvg-logo="https://www.hdicon.com/wp-content/uploads/2013/12/HKJC_1997.png" group-title="香港馬會",賽日收音機（official, 粵語）
 https://hkjclive-hls.akamaized.net/hls/live/2030947/can_hls/can/Audio/yue/can.m3u8
-#EXTINF:-1 tvg-id="HKJC-CMN" tvg-name="香港馬會賽日收音機-普" tvg-shift="0" tvg-logo="https://www.hdicon.com/wp-content/uploads/2013/12/HKJC_1997.png" group-title="香港馬會",賽日收音機（official - 普通話）
+#EXTINF:-1 tvg-id="HKJC-CMN" tvg-name="香港馬會賽日收音機-普" tvg-shift="0" tvg-logo="https://www.hdicon.com/wp-content/uploads/2013/12/HKJC_1997.png" group-title="香港馬會",賽日收音機（official, 普通話）
 https://hkjclive-hls.akamaized.net/hls/live/2030947/pth_hls/pth/Audio/cmn/pth.m3u8
-#EXTINF:-1 tvg-id="HKJC-ENG" tvg-name="香港馬會賽日收音機-英" tvg-shift="0" tvg-logo="https://www.hdicon.com/wp-content/uploads/2013/12/HKJC_1997.png" group-title="香港馬會",賽日收音機（official - 英語）
+#EXTINF:-1 tvg-id="HKJC-ENG" tvg-name="香港馬會賽日收音機-英" tvg-shift="0" tvg-logo="https://www.hdicon.com/wp-content/uploads/2013/12/HKJC_1997.png" group-title="香港馬會",賽日收音機（official, 英語）
 https://hkjclive-hls.akamaized.net/hls/live/2030947/eng_hls/eng/Audio/eng/eng.m3u8
