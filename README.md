@@ -38,7 +38,7 @@
 | [Televizo](https://televizo.net/) | Android | 推薦安卓手機端使用，不支持錄製節目，支持觸控操作。一次性買斷價格爲 1600円（Google Play 日區價），單帳號五台設備。不支持mpd解碼。 |
 | [OTT Navigator](https://ottnav.github.io/faq.html) | Android | 推薦安卓盒子/平板使用，不支持錄製節目，支持觸控操作。相比Tivimate，這款可以支持重定向地址、以及支援更新的解碼器/更多DRM樣式。一次性買斷價格爲 2500円（Google Play 日區價），單帳號五台設備（許可允許追加購入）。 |
 | [APTV](https://apps.apple.com/cn/app/aptv/id1630403500) | iOS/Mac/APTV | 蘋果系萬金油（基本蘋果系全部支持，包括 Vision Pro），買斷價格也相比其他客戶端實惠很多，算是蘋果系收看IPTV的客戶端入門首選。不支持錄製節目，不支持DRM源（mpd），支持觸控操作。一次性買斷（應用內購買）價格爲 人民幣28元 / 600円 / 3.99美元，不支持家庭共享。 |
-| [iSTB](https://apps.apple.com/cn/app/istb/id1497473331) | iOS/Mac/APTV | 蘋果系可以和安卓方面 Tivimate 對標的IPTV客戶端，推薦iPad/APTV/Mac使用。支持錄製節目，支持多同屏多視圖收看（不過 _不支持_ **跨播放列表**進行多視圖觀看），不支持DRM源（mpd），支持觸控操作。一次性買斷價格爲 人民幣98元 / 2500円 / 14.99美元，不支持家庭共享。 |
+| [iSTB](https://apps.apple.com/cn/app/istb/id1497473331) | iOS/Mac/APTV | 蘋果系可以和安卓方面 Tivimate 對標的IPTV客戶端，推薦iPad/APTV/Mac使用。支持錄製節目，支持多同屏多視圖收看（不過_不支持_**跨播放列表**進行多視圖觀看），不支持DRM源（mpd），支持觸控操作。一次性買斷價格爲 人民幣98元 / 2500円 / 14.99美元，不支持家庭共享。 |
 | [Kodi](https://kodi.tv/) | PC/Android/XBOX | 跨平臺萬金油。支持通過插件來播放DRM源（mpd）。 |
 | [PotPlayer](https://potplayer.daum.net/) | PC | 萬金油。mini版足矣。不支持mpd解碼和epg。 |
 | [vlc](https://www.videolan.org/vlc/) | PC | 跨系統萬金油。不支持mpd解碼和epg。 |
