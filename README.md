@@ -24,7 +24,7 @@
 | 鏈接 | 備註 |
 | --- | --- |
 |[YangG-1989](https://yang-1989.eu.org/) | 由 YangG-1989 整理的IPTV源。|
-|[luongz/iptv-jp](https://github.com/luongz/iptv-jp) | 由 luongz 整理的日本IPTV（IPV4）源 + epg節目表/列表（觀看需海外IP）。|
+|[luongz/iptv-jp](https://utako.moe/) | 由 luongz 整理的日本IPTV（IPV4）源 + epg節目表/列表（觀看需海外IP）。|
 |~~[stream-link.org](https://www.stream-link.org/)~~ | ~~香港網民整理的IPTV源（觀看需**非**大陸、臺灣、及cloudflare ip段），範圍主要是香港（硬字幕+粵語音軌）和臺灣的電視台。~~ [3/26被一鍋端了。](https://www.bilibili.com/video/BV1XHoqYkEwA/)|
 |~~[HKDVB](https://live.hkdvb.com/)~~ | ~~香港網民整理的IPTV源，範圍主要是香港的電視台（硬字幕+粵語音軌）。~~ [3/26被一鍋端了。](https://www.bilibili.com/video/BV1XHoqYkEwA/) ~~所以不要把付費版權資源整進去啊...~~|
 |[mjh.nz](https://i.mjh.nz/) | 由 [matthuisman](https://github.com/matthuisman) 整理的IPTV源+epg節目表，範圍主要是英語國家的電視台+輪播頻道。 |
@@ -34,9 +34,11 @@
 
 | 客戶端名稱 | 平臺 | 備註 |
 | --- | --- | --- |
-| [Tivimate](https://tivimate.com/) | Android | 推薦安卓盒子/平板使用，支持錄製節目，播放DRM源需要提供密鑰字段，操控需要用藍牙遙控器。一次性買斷價格爲 $33.99（官方美元定價）/ 4480円（Google Play 日區價），單帳號五台設備。 |
+| [Tivimate](https://tivimate.com/) | Android | 推薦安卓盒子/平板使用。支持錄製節目，支持多同屏多視圖收看，播放DRM源需要提供密鑰字段，操控需要用藍牙遙控器。一次性買斷價格爲 $33.99（官方美元定價）/ 4480円（Google Play 日區價），單帳號五台設備。 |
 | [Televizo](https://televizo.net/) | Android | 推薦安卓手機端使用，不支持錄製節目，支持觸控操作。一次性買斷價格爲 1600円（Google Play 日區價），單帳號五台設備。不支持mpd解碼。 |
 | [OTT Navigator](https://ottnav.github.io/faq.html) | Android | 推薦安卓盒子/平板使用，不支持錄製節目，支持觸控操作。相比Tivimate，這款可以支持重定向地址、以及支援更新的解碼器/更多DRM樣式。一次性買斷價格爲 2500円（Google Play 日區價），單帳號五台設備（許可允許追加購入）。 |
+| [APTV](https://apps.apple.com/cn/app/aptv/id1630403500) | iOS/Mac/APTV | 蘋果系萬金油（基本蘋果系全部支持，包括 Vision Pro），買斷價格也相比其他客戶端實惠很多，算是蘋果系收看IPTV的客戶端入門首選。不支持錄製節目，不支持DRM源（mpd），支持觸控操作。一次性買斷（應用內購買）價格爲 人民幣28元 / 600円 / 3.99美元，不支持家庭共享。 |
+| [iSTB](https://apps.apple.com/cn/app/istb/id1497473331) | iOS/Mac/APTV | 蘋果系可以和安卓方面 Tivimate 對標的IPTV客戶端，推薦iPad/APTV/Mac使用。支持錄製節目，支持多同屏多視圖收看（不過 __不支持__ **跨播放列表**進行多視圖觀看），不支持DRM源（mpd），支持觸控操作。一次性買斷價格爲 人民幣98元 / 2500円 / 14.99美元，不支持家庭共享。 |
 | [Kodi](https://kodi.tv/) | PC/Android/XBOX | 跨平臺萬金油。支持通過插件來播放DRM源（mpd）。 |
 | [PotPlayer](https://potplayer.daum.net/) | PC | 萬金油。mini版足矣。不支持mpd解碼和epg。 |
 | [vlc](https://www.videolan.org/vlc/) | PC | 跨系統萬金油。不支持mpd解碼和epg。 |
